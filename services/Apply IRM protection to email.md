@@ -20,7 +20,7 @@ essence of IRM is that even if such a container falls outside
 the network, it will be completely useless without access rights to the
 document. This scheme is similar to the forced encryption of data placed
 on removable media, which is often found in access control systems for
-ports and peripherals. IRM technology allows the export of
+ports and peripherals. IRM technology allows the export  of
 confidential information only in encrypted form, which allows you to
 always protect the company from accidental leaks, and quite often from
 planned information disclosure attacks.
