@@ -33,7 +33,7 @@ invulnerable for some time.
 The Extended Security Update (ESU) program is an alternative
 for consumers to manage certain legacy Microsoft products after the
 support is ended. Simply put: Microsoft will continue creating security
-updates, but you are only able to get them if you pay up. It covers
+updates, but you are only able to get them if you pay up. It covers 
 essential upgrades for three years after the product\`s End of Extended
 Support date, but it doesn't involve new features and customer-requested
 non-security upgrades.
