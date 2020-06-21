@@ -46,7 +46,7 @@ documents and email messages under IRM policy.
 
 ### Client responsibilities
 
-1.  Coordinate client resources and staff schedules
+1.  Coordinate Client resources and staff schedules
 2.  Provide a dedicated point of contact responsible for working with IT
     Partner
 3.  Coordinate any outside vendor resources and schedules
