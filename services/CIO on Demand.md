@@ -24,7 +24,7 @@ Our **objective** is sharing our experience and deep knowledge of IT for
 your business benefit and providing competitive advantage through Cloud
 technologies.
 
-### IT Partner responsibilities:
+### IT Partner responsibilities
 
 -   IT audit
 -   Health checks and risk assessments
