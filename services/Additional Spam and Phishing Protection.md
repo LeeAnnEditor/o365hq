@@ -15,20 +15,20 @@ manager = "Roman Sotnik"
 +++
 
 While vendors seek to improve e-mail protection mechanisms, attackers
-also develop protection bypass methods, invent new ways of targeted
-phishing, sometimes using the c negligence of employees or the lack of
+are developing protection bypass methods, inventing new ways of targeted
+phishing, sometimes using the negligence of employees or the lack of
 effective solutions against spam and phishing.
 
 This service will help you start using modern protection solutions, such
 as Exchange Online Advanced Threat Protection, which helps protect
-employees from viruses and malware, DKIM and DMARC
+employees from viruses and malware. DKIM and DMARC
 function setup significantly reduces the ability to send phishing from
 your company's domain, including to your address (the practice of
 sending out specially prepared letters on behalf of employees of one
-company, actually sent by attackers, has recently become very common),
-we will also check your domain settings and make changes if necessary.
-Blocking the receipt of mail based on regional data can also be
-additional help by eliminating the possibility of attacks from countries
+company, actually sent by attackers, has recently become very common).
+We will also check your domain settings and make changes, if necessary.
+Blocking the receipt of mail based on regional data can also be enhanced by 
+eliminating the possibility of attacks from countries
 with increased viral activity.
 
 ### IT Partner responsibilities
@@ -41,12 +41,12 @@ with increased viral activity.
 
 ### Client responsibilities
 
-1.  Coordinate Client resources and staff schedules
+1.  Coordinate client resources and staff schedules
 2.  Provide a dedicated point of contact responsible for working with IT
     Partner
 3.  Coordinate any outside vendor resources and schedules
 4.  Perform changes to internal and external DNS, as required
-5.  Configure all network equipment such as load balancers, routers,
+5.  Configure all network equipment, such as load balancers, routers,
     firewalls, and switches
 6.  Review and approve engagement deliverables in a timely manner
 
