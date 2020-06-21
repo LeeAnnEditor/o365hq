@@ -14,7 +14,7 @@ duration = "3 days"
 manager = "Roman Sotnik"
 +++
 
-While vendors seek to improve e-mail protection mechanisms, attackers
+While vendors seek to improve email protection mechanisms, attackers
 are developing protection bypass methods, inventing new ways of targeted
 phishing, sometimes using the negligence of employees or the lack of
 effective solutions against spam and phishing.
