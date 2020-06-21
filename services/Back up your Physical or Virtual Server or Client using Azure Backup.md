@@ -25,19 +25,19 @@ Azure Backup's Recovery Services vaults may protect:
 -   VMs running on Managed Disks
 -   VMs encrypted using Azure Disk Encryption, with BEK and
     KEK
--   Application consistent backups of Windows VMs using VSS and
+-   Application-consistent backups of Windows VMs using VSS and
     Linux VMs using custom pre-snapshot and post-snapshot scripts
 -   Windows Server (or Windows computer) files and folders backed up to
     Azure using a Resource Manager deployment
 
-Our objective is to provide backup and recovery for customer's physical
-or virtual Server or Client using Azure Backup.
+Our objective is to provide backup and recovery for your physical
+or virtual server or client using Azure Backup.
 
 A Recovery Services vault is an entity that stores all the backups and
 recovery points that have been created over time. The storage
 replication option allows you to choose between geo-redundant storage
 and locally redundant storage. We will select a backup goal, set
-policies and define items to protect.
+policies, and define items to protect.
 
 Once a backup policy has been deployed on the virtual machine, that does
 not mean the data has been backed up. We must also install the VM Agent
@@ -48,11 +48,11 @@ possible issues.
 
 ### IT Partner responsibilities
 
-1.  Define backup points and policy with the client
+1.  Define backup points and policy with the Client
 2.  Configure Azure Backup Cloud Service
 3.  Install agents on the target systems
 4.  Set up schedules and policies
-5.  Verify the correct work of backup and recovery
+5.  Verify the correct working of backup and recovery
 6.  Perform test data recovery
 
 ### Client responsibilities:
@@ -61,7 +61,7 @@ possible issues.
 2.  Provide a dedicated point of contact responsible for working with IT
     Partner
 3.  Coordinate any outside vendor resources and schedules
-4.  Configure all network equipment such as load balancers, routers,
+4.  Configure all network equipment, such as load balancers, routers,
     firewalls, and switches
 5.  Review and approve engagement deliverables in a timely manner
 
@@ -75,7 +75,7 @@ additional fee.
 
 ### Prerequisites
 
-No.
+None.
 
 ### Plan
 
@@ -84,7 +84,7 @@ May vary depending on your needs.
 1.  Kickoff meeting
 2.  Definition of backup points and policy
 3.  Preparing Azure Backup Vault
-4.  Installing and configure backup agents
+4.  Installing and configuring backup agents
 5.  Verification and fixing issues
 
 ### Success Criteria
