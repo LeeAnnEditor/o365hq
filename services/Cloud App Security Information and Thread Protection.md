@@ -1,5 +1,5 @@
 +++
-title = "Cloud App Security Information and Thread Protection"
+title = "Cloud App Security Information and Threat Protection"
 description = "Microsoft Cloud App Security is a comprehensive solution for providing IT security with cloud services in a company of any size. "
 date = 2019-06-28
 
