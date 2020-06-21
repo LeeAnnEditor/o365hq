@@ -37,7 +37,7 @@ service.](https://o365hq.com/services/manual-in-place-upgrade-to-windows-10)
 
 ### Client responsibilities
 
-1.  Coordinate client resources and staff schedules
+1.  Coordinate Client resources and staff schedules
 2.  Provide a dedicated point of contact responsible for working with IT
     Partner
 3.  Provide access to Active Directory service
