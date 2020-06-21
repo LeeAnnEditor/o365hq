@@ -14,34 +14,33 @@ duration = ""
 manager = "Roman Sotnik"
 +++
 
-This service will allow you to transfer Azure AD data from one Tenant to
+This service will allow you to transfer Azure AD data from one tenant to
 another. We can move users and groups, saving all current logins. Please
 note that export of passwords from Azure AD is impossible, so saving the
 current user passwords will not work. The users will be assigned a
-temporary password, with which they can enter the new tenant and assign
-to themselves a permanent password by their own.
+temporary password they can use to create a permanent password of their own.
 
-Staged Azure AD Tenant-to Tenant migration describes the staged
+Staged Azure AD Tenant-to-Tenant migration describes the staged
 migration of users and Azure resource sharing setup. This scenario will
 suit you if your company has many users who use Azure AD authorization
 on their workstations, or for a large number of other resources hosted
 in Azure.\
-Staged migration allows a part of users to log in to the new domain, but
+Staged migration allows a number of users to log into the new domain, but
 with the help of the access settings, it is also possible to save the
-ability to work with resources, SharePoint or VM in the old domain.
-Also, this approach allows to reconfigure all PCs with saving data,
+ability to work with resources, SharePoint, or VM in the old domain.
+This approach allows reconfiguring of all PCs while saving data,
 using less human resources and reducing possible downtime.
 
-You can also consider cut-over migration, during which all data will be
+You can also consider a cut-over migration, during which all data will be
 transferred at once.
 
 ### IT Partner responsibilities
 
 1.  Source tenant data analysis
 2.  Preparation of the migration plan, including resource list, migrated
-    user groups and their access to data in the source tenant
+    user groups, and their access to data in the source tenant
 3.  Providing informational messages for users
-4.  Staged exporting data from the source tenant in accordance with the
+4.  Staged export of data from the source tenant in accordance with the
     migration plan and uploading data into a new tenant
 5.  Providing users of the new tenant with access to resources in the
     source tenant
@@ -68,12 +67,12 @@ transferred at once.
     tenant
 3.  Workstation configuration. Please note that if employees use Azure
     AD authorization on their PCs, they will need to disconnect from the
-    current tenant and connect to a new one, a new user profile will be
+    current tenant and connect to a new one; a new user profile will be
     created as a result. Services for PC setup and transferring data
     stored in a user profile can be purchased as an additional service
 
 Upon completion of the project, we will provide a project closeout
-report. This document will indicate the final project status including
+report. This document will indicate the final project status, including
 acceptance criteria matching, outstanding issues, and the final budget.
 If you require more extensive documentation, it can be provided for an
 additional fee.
@@ -90,8 +89,8 @@ additional fee.
 The plan may vary depending on your needs.
 
 1.  Kickoff meeting
-2.  The source tenant data analysis
-3.  Preparing and coordination of the migration plan
+2.  Source tenant data analysis
+3.  Preparation and coordination of the migration plan
 4.  Preparing for migration and informing users
 5.  Data migration according to the developed plan
 6.  Verification and fixing issues
