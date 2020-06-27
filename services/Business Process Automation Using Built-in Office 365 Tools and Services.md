@@ -57,7 +57,7 @@ Create and implement one of the following automation services:
     necessary to implement the service
 4.  Coordinate any outside vendor resources and schedules
 5.  Review and approve engagement deliverables in a timely manner
-6.  Request and approve all change management tickets (if available) in
+6.  Request and approve all change management tickets (if applicable) in
     the Client environment
 
 ### Prerequisites
