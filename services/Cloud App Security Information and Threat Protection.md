@@ -14,19 +14,19 @@ duration = "3 weeks"
 manager = "Roman Sotnik"
 +++
 
-MS CAS is a cloud-based service and aims to protect the work of
+MS CAS is a cloud-based service that aims to protect the work of
 cloud services, but it also allows you to monitor employees' personal
 devices, obtains information about the security of these devices,
 vulnerabilities, attempts to hack devices, the possibility of
 credentials being compromised, and suspicious activity. This service has
 convenient data visualization capabilities, can analyze data to identify
-threats, has flexible management policies, automates security monitoring
-processes --- all these features minimize the security specialist's
+threats, has flexible management policies, and automates security monitoring
+processes. All these features minimize the security specialist's
 workload while maintaining a high level of control and protection. MS
 CAS transparently integrates into the work of employees and
 does not create problems in their daily routine.
 
-**In this service we are focused on using MS CAS in the
+**With this service, we are focused on using MS CAS in the
 Microsoft Cloud services protection scenario**
 
 1.  Data protection and privacy, including the use of the Conditional
@@ -111,7 +111,7 @@ provided for an additional fee. 
 
 ### Plan
 
-The plan may vary depending on your needs.
+The plan may vary depending on your needs
 
 1.  Kickoff meeting
 2.  Collecting information about current infrastructure, users,
