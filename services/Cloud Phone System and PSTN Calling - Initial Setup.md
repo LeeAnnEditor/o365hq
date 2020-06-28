@@ -55,42 +55,42 @@ business.
 
 ### IT Partner responsibilities
 
-1.  Assign the correct licenses for Phone System service.
-2.  Assist with porting your old numbers.
-3.  Assign telephone numbers to your Office 365 users.
+1.  Assign the correct licenses for Phone System service
+2.  Assist with porting your old numbers
+3.  Assign telephone numbers to your Office 365 users
 4.  Set emergency locations and assign numbers and emergency locations
-    to users.
+    to users
 5.  Configure Cloud PBX voice and voicemail services (Auto
-    Attendant, Call Queue, Audio Conferencing, etc.).
-6.  Set up voicemail policies in your organization.
-7.  Configuring federation with external organizations.
-8.  Set up Communication Credits.
-9.  Set up Cloud Voicemail.
+    Attendant, Call Queue, Audio Conferencing, etc.)
+6.  Set up voicemail policies in your organization
+7.  Configuring federation with external organizations
+8.  Set up Communication Credits
+9.  Set up Cloud Voicemail
 
 ### Client responsibilities
 
 -   Provide instructions containing the structure of telephone numbers
-    and extensions.
--   Provide required voice messages/music for Cloud PBX.
--   Provide voice recordings for Auto Attendant.
+    and extensions
+-   Provide required voice messages/music for Cloud PBX
+-   Provide voice recordings for Auto Attendant
 -   Provide a dedicated point of contact responsible for working with IT
-    Partner and coordinate any outside vendor resources and schedules.
+    Partner and coordinate any outside vendor resources and schedules
 -   Configure all networking equipment, such as load balancers, routers,
-    firewalls, and switches.
+    firewalls, and switches
 -   Provide access to physical and virtual servers and/or systems and
     services as needed. Provide needed remote and/or physical access to
-    facility and systems required to complete work.
+    facility and systems required to complete work
 -   Assist with identification of high-risk users (top executives and
-    VIP users).
+    VIP users)
 
 ### Out of the scope of this project (additional cost items)
 
--   Customer team training.
--   Desktop/mobile software settings.
--   Setup and configuration of desktop phones (separate project).
--   Skype for Business to Teams upgrade (separate project).
+-   Customer team training
+-   Desktop/mobile software settings
+-   Setup and configuration of desktop phones (separate project)
+-   Skype for Business to Teams upgrade (separate project)
 -   Any integration with or deployment of elements of Enterprise Voice
-    on-premises.
+    on-premises
 
 ### Prerequisites
 
