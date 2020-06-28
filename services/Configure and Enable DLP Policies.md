@@ -73,7 +73,7 @@ Office 365 subscription with one of the following services:\
 
 ### Plan
 
-The plan may vary depending on your needs
+The plan may vary depending on your needs.
 
 1.  Kickoff meeting
 2.  Preliminary data collection
