@@ -111,7 +111,7 @@ provided for an additional fee. 
 
 ### Plan
 
-The plan may vary depending on your needs
+The plan may vary depending on your needs.
 
 1.  Kickoff meeting
 2.  Collecting information about current infrastructure, users,
