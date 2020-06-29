@@ -61,8 +61,8 @@ Our **objective** is to migrate Exchange mailboxes to Office 365.
 2.  Desktop software settings
 3.  End user support
 
-Upon completion of the project, we will provide a Project Closeout
-Report. This document will indicate the final project status, including
+Upon completion of the project, we will provide a project closeout
+report. This document will indicate the final project status, including
 evidence of matching acceptance criteria, outstanding issues, and the
 final budget. If you want more extensive documentation, it can be
 provided for an additional fee.
