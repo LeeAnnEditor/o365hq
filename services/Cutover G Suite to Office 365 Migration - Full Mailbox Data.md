@@ -62,8 +62,8 @@ Google Drive to the Office 365 tenant.
     be added as an additional service)
 3.  Desktop software settings
 
-Upon completion of the project, we will provide a Project Closeout
-Report. This document will indicate the final project status,
+Upon completion of the project, we will provide a project closeout
+report. This document will indicate the final project status,
 including acceptance criteria matching, outstanding issues (if any), and the
 final budget. If you require more extensive documentation, it can be
 provided for an additional fee.  
