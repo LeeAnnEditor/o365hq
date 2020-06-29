@@ -65,8 +65,8 @@ provided for an additional fee. 
 
 ### Prerequisites
 
-1.  Office 365 E3 and newer or Azure Information Protection P1\\P2.
-2.  Administrative access to your Office 365 Tenant.
+1.  Office 365 E3 and newer or Azure Information Protection P1/P2
+2.  Administrative access to your Office 365 Tenant
 
 ### Plan
 
