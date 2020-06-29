@@ -1,5 +1,5 @@
 +++
-title = "Cutover G Suite to Office 365 migration - Just email and email folders"
+title = "Cutover G Suite to Office 365 Migration - Just email and email folders"
 description = "Migration of email data and email folders from G Suite (Google Apps) to Office 365 / Exchange Online."
 date = 2018-02-02
 
