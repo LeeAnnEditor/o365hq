@@ -14,16 +14,16 @@ duration = "3 days"
 manager = "Roman Sotnik"
 +++
 
-It may be necessary if you are migrating from an SBS server to
-a new server, or from On-Premises solution to Office 365 and you want to
-keep the Domain Controller in your network, but a new operating system
-or hardware is required.
+Domain services and active directory roles migration may be necessary if 
+you are migrating from an SBS server to a new server, or from On-Premises 
+solution to Office 365 and you want tokeep the Domain Controller in your 
+network, but a new operating system or hardware is required.
 
 ### IT Partner responsibilities
 
 1.  Domain Controller preparation and promotion
 2.  Transfer of Domain Controller roles
-3.  Transfer of group policy, groups and users
+3.  Transfer of group policy, groups, and users
 4.  DNS server transfer
 5.  DHCP server transfer
 
@@ -35,7 +35,7 @@ or hardware is required.
 3.  Coordinate any outside vendor resources and schedules
 4.  Provide administrative access to the Active Directory domain and
     servers
-5.  Configure all network equipment such as load balancers, routers,
+5.  Configure all network equipment, such as load balancers, routers,
     firewalls, and switches
 6.  Review and approve engagement deliverables in a timely manner
 
@@ -45,7 +45,7 @@ or hardware is required.
 2.  Email and/or documents transfer to Office 365
 3.  Support of the devices with static network settings
 4.  Remote installation of the Microsoft Windows OS on the server, if
-    possible, for example when using a virtual machine or remote server
+    necessary, for example, when using a virtual machine or remote server
     management technologies -- iLO and others
 
 ### Prerequisites
@@ -55,14 +55,14 @@ or hardware is required.
 
 ### Plan
 
-The plan may vary depending on your needs
+The plan may vary depending on your needs.
 
 1.  Kickoff meeting
 2.  The new server preparation
 3.  Staged transfer of roles and data
 4.  Verification of work
 5.  Demotion of the old DC
-6.  Verification and fixing issues
+6.  Verification and fixing issues, if any
 
 ### Success Criteria
 
