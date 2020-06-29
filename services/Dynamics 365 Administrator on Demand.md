@@ -1,6 +1,6 @@
 +++
 title = "Dynamics 365 Administrator on Demand"
-description = "Our engineers take care of irregular administration chores in your Dynamics 365. Support is available by phone, Skype for Business or remotely."
+description = "Our engineers take care of irregular administration chores in your Dynamics 365. Support is available by phone, Skype for Business, or remotely."
 date = 2018-07-30
 
 [taxonomies]
@@ -21,7 +21,7 @@ professionally.
 Our **objective** is to provide on demand support for your Dynamics 365
 tenant issues.
 
-### Our responsibilities
+### IT Partner responsibilities
 
 -   Manage your Dynamics 365 subscription
 -   Manage Dynamics 365 (online) instances
@@ -31,9 +31,9 @@ tenant issues.
 
 ### Client responsibilities
 
--   Manage any issues not related directly to Office 365
+-   Manage any issues not directly related to Office 365
 
-### Out of the scope of this service (additional cost items)
+### Outside of the scope of this service (additional cost items)
 
 -   Training of customer team
 -   Desktop software settings
