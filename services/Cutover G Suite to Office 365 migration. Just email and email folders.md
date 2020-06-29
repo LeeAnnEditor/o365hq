@@ -1,6 +1,6 @@
 +++
-title = "Cutover G Suite to Office 365 migration. Just email and email folders."
-description = "Migration of email data and email folders from G Suite (Google Apps) to Office 365 / Exchange Online. "
+title = "Cutover G Suite to Office 365 migration - Just email and email folders"
+description = "Migration of email data and email folders from G Suite (Google Apps) to Office 365 / Exchange Online."
 date = 2018-02-02
 
 [taxonomies]
@@ -14,20 +14,20 @@ duration = "1 week"
 manager = "Mike Mackey"
 +++
 
-*Note: If you have contacts, tasks and calendars in your mailbox and you
+*Note: If you have contacts, tasks, and calendars in your mailbox and you
 need to migrate this data in addition to your email messages and email
-folders then you need a different Service -- G Suite to Office 365*
+folders, then you need a different Service -- G Suite to Office 365.*
 
 We can migrate the content of user mailboxes from your source email
 system to Office 365. We will use the Internet Message Access Protocol
 (IMAP) to migrate email. Please note that only email and email
 folders will be migrated.
 
-Our objective is to provide planning, design and migration from G Suite
+Our objective is to provide planning, design, and migration from G Suite
 mailboxes to Office 365 tenant via IMAP protocol without
 downtime or data loss and with minimal user disruption.
 
-A migration project will be considered successful if all mailboxes are
+The migration project will be considered successful if all mailboxes are
 moved to Office 365.
 
 ### IT Partner responsibilities
@@ -50,22 +50,22 @@ moved to Office 365.
     users with individual passwords
 5.  Perform changes to internal and external DNS, as required
 6.  Assist with identification of high-risk users (top executives
-    and VIP-users, users with 50 GB mailboxes or larger and/or
+    and VIP users, users with 50 GB mailboxes or larger and/or
     30 GB deleted folders or larger)
 7.  Ensure IMAP Access is enabled for all users
 
 ### Additional cost items not provided by the project
 
 1.  Informing users about the migration
-2.  Customer team training (could be added as additional service)
+2.  Customer team training (could be added as an additional service)
 3.  Migration of Corporate documents to SharePoint Online (could be
-    added as additional service)
+    added as an additional service)
 4.  Desktop software settings
 5.  Migration of anything except email and email folders
 
 Upon completion of the project, we will provide a project closeout
-report. This document will indicate the final project status
-including acceptance criteria matching, outstanding issues, and the
+report. This document will indicate the final project status,
+including acceptance criteria matching, outstanding issues (if any), and the
 final budget. If you require more extensive documentation, it can be
 provided for an additional fee.  
 
@@ -89,7 +89,7 @@ Suite.
 2.  We can migrate a maximum of 500,000 items from a user mailbox
     (emails are migrated from newest to oldest)
 3.  The biggest email we can migrate is 35 MB
-4.  Regular non-paid Google Apps or Gmail accounts do not have
+4.  Regular, non-paid Google apps or Gmail accounts do not have
     administrative credentials. We will need to migrate these accounts
     using the individual user names and passwords for each account.
     Without admin credentials, your account may be temporarily locked by
@@ -113,16 +113,16 @@ The plan may vary depending on your needs.
 3.  User creation or AD connect tool configuration
 4.  Email and data migration start
 5.  Migration process verification
-6.  MX record to a new Office 365 tenant changing
+6.  MX record to a new Office 365 tenant 
 7.  Final email and data migration
 8.  Verification and fixing issues
 
 ### Results
 
-1.  Users can access Exchange Online on their desktop PCs, mobile phones
+1.  Users can access Exchange Online on their desktop PCs, mobile phones,
     and tablets from any place, any time 
-2.  All emails successfully migrated to Office 365 tenant and accessible
+2.  All emails are successfully migrated to Office 365 tenant and are accessible
     by all user profiles
-3.  All necessary Transport rules created and working 
+3.  All necessary Transport rules are created and working 
 4.  Mail can be sent and received using Exchange Online 
 5.  Exchange Online Protection configured and working 
