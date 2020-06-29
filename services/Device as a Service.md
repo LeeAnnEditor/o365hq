@@ -60,7 +60,7 @@ purchase, data destruction, and disposal/recycling services
     greatest technology, customers can leverage new devices as a
     competitive edge as they recruit their new workforce.
 
-Our **objective** is to add sinergy between Microsoft Surface devices,
+Our **objective** is to add synergy between Microsoft Surface devices,
 Microsoft Cloud services, and your business aims.
 
 ### Result
