@@ -1,5 +1,5 @@
 +++
-title = "Cutover Exchange Online Migration From Any IMAP Email System"
+title = "Cutover Exchange Online Migration from any IMAP Email System"
 description = "We will migrate users, email data, and email folders from any IMAP system to Office 365 / Exchange Online."
 date = 2018-02-02
 
