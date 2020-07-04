@@ -1,6 +1,6 @@
 +++
 title = "Exchange Online Administrator on Demand"
-description = "Our engineers take care of irregular administration chores in Exchange Online. Support is available by phone, Skype for Business or remotely."
+description = "Our engineers take care of irregular administration chores in Exchange Online. Support is available by phone, Skype for Business, or remotely."
 date = 2018-07-30
 
 [taxonomies]
@@ -21,21 +21,21 @@ professionally.
 Our **objective** is to provide on demand support for your Exchange
 Online tenant issues.
 
-### Our responsibilities
+### IT Partner responsibilities
 
 -   Set up mailbox features
 -   Monitor Exchange Online via the Exchange Online admin center
     (EAC)
 -   Recover deleted items in a user's mailbox
 -   Create shared mailboxes so a group of people can monitor and send
-    email from a common email address.
--   Set up anti-spam and malware filters for the organization.
+    email from a common email address
+-   Set up anti-spam and malware filters for the organization
 
 ### Client responsibilities
 
 -   Any issues not related directly to Exchange Online
 
-### Out of the scope of this service (additional cost items)
+### Outside  the scope of this service (additional cost items)
 
 -   Training of customer team
 -   Desktop software settings
