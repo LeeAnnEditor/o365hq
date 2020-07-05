@@ -51,12 +51,12 @@ about:
 4.  Quote for IT Partner's services in case you'd like us to work on
     your tenant hardening
 
-### IT Partner responsibilities:
+### IT Partner responsibilities
 
 -   Office 365 data collection and analysis
 -   Building of a security report
 
-### Client responsibilities:
+### Client responsibilities
 
 -   Providing a dedicated point of contact responsible for working with
     IT Partner
