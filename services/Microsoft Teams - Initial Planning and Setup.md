@@ -9,7 +9,7 @@ types = ["Implementation"]
 
 [extra]
 sku = "ITPWW390IMPOT"
-price = "500"
+price = "$500"
 duration = "1 week"
 manager = "Roman Sotnik"
 +++
@@ -19,8 +19,8 @@ manager = "Roman Sotnik"
 workplace chat, video meetings, file storage (including file
 collaboration), and application integration. We will help you determine
 your requirements for using Teams, necessary groups, and modules, and a
-scheme for working with Teams, based on information received from you.
-We will develop a statement of work for implementation and then we
+scheme for working with Teams based on information received from you.
+We will develop a statement of work (SOW) for implementation and then we
 configure Teams following the SOW.
 
 ### IT Partner responsibilities
@@ -36,7 +36,7 @@ configure Teams following the SOW.
 2.  Provide a dedicated point of contact responsible for working with IT
     Partner
 3.  Coordinate any outside vendor resources and schedules
-4.  Configure all network equipment such as load balancers, routers,
+4.  Configure all network equipment, such as load balancers, routers,
     firewalls, and switches
 5.  Review and approve engagement deliverables promptly
 
@@ -48,16 +48,16 @@ configure Teams following the SOW.
 4.  Migration of any data
 
 Upon completion of the project, we will provide a project closeout
-report. This document will indicate the final project status
+report. This document will indicate the final project status,
 including acceptance criteria matching, outstanding issues, and the
 final budget. If you require more extensive documentation, it can be
 provided for an additional fee. 
 
 ### Prerequisites
 
-None
+None.
 
-### Plan:
+### Plan
 
 The plan may vary depending on your needs.
 
@@ -68,11 +68,11 @@ The plan may vary depending on your needs.
 4.  Installation of Teams desktop and mobile clients
 5.  Testing and working use of Teams
 6.  Gather feedback
-7.  Verification and fixing issues.
+7.  Verification and fixing of issues, if any
 
-### Success Criteria
+### Success criteria
 
 1.  The statement of work for Teams implementation is developed
 2.  Teams infrastructure is configured according to the SOW
 3.  Employees can access Teams using desktop and mobile clients, as well
-    as web versions.
+    as web versions
