@@ -32,7 +32,7 @@ A sample scenario:
     login and password for the new account, which he will provide to the
     new user.
 
-### IT Partner responsibilities:
+### IT Partner responsibilities
 
 1.  Create and configure account request form elements with standard
     parameters
@@ -44,7 +44,7 @@ A sample scenario:
 5.  Post-implementation break/fix support for one month after project
     closure
 
-### Client responsibilities:
+### Client responsibilities
 
 1.  Coordinate Client resources and staff schedules
 2.  Provide a dedicated point of contact responsible for working with IT
@@ -52,17 +52,17 @@ A sample scenario:
 3.  Provide all the necessary information to organize the process
 4.  Review and approve engagement deliverables in a timely manner
 
-### Additional cost items not provided by the project:
+### Additional cost items not provided by the project
 
 1.  Additional fields and process conditions can be customized
 
-### Prerequisites:
+### Prerequisites
 
 -   You must have global admin level access to the Office 365 tenant
 -   You must have SharePoint Online service
 -   Your organization must use Azure AD service
 
-### Plan:
+### Plan
 
 The plan may vary depending on your needs.
 
@@ -72,7 +72,7 @@ The plan may vary depending on your needs.
 4.  Verification
 5.  Project closing
 
-### Success Criteria:
+### Success Criteria
 
 Employees can fill out the account request form with necessary data and
 get new user credentials after  supervisor approval.
