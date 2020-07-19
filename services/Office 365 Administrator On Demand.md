@@ -1,6 +1,6 @@
 +++
 title = "Office 365 Administrator On Demand"
-description = "Administration on demand is a service whereby our staff take care of irregular administration chores, such as creating new users or managing existing Exchange Online transport rules in your Office 365 tenant. Support is available by phone, Skype for Business or remotely."
+description = "Administration on demand is a service whereby our staff takes care of irregular administration chores, such as creating new users or managing existing Exchange Online transport rules in your Office 365 tenant. Support is available by phone, Skype for Business, or remotely."
 date = 2018-07-30
 
 [taxonomies]
@@ -21,23 +21,23 @@ professionally.
 Our **objective** is to provide on demand support for your Office 365
 tenant issues.
 
-### Our responsibilities
+### IT Partner responsibilities
 
 -   DNS configuration
--   Office 365 User / Group Administration
--   Employee onboarding or termination,
+-   Office 365 User/Group Administration
+-   Employee onboarding or termination
 -   User creation or deactivation
--   Password changes/resets,
--   Configure Office 365 / Azure AD groups,
--   Modify password expiration policies,
--   Report license use and re-assign licenses as needed. Included in
-    full-service billing support
--   Multi-factor authentication,
--   AD Connect (formerly AD Sync / DirSync),
--   Single Sign On / Federation with ADFS,
+-   Password changes/resets
+-   Configure Office 365/Azure AD groups
+-   Modify password expiration policies
+-   Report license use and reassign licenses as needed (included in
+    full-service billing support)
+-   Multi-factor authentication
+-   AD Connect (formerly AD Sync/DirSync)
+-   Single Sign On/Federation with ADFS
 -   System Alerts and Reports
 
-### Out of the scope of this project (additional cost items)
+### Outside the scope of this project (additional cost items)
 
 -   Training of customer team
 -   Desktop software settings
@@ -46,4 +46,4 @@ tenant issues.
 ### Results
 
 Supplementary on demand professional help in solving any issues you're
-your Office 365 tenant.
+experiencing with your Office 365 tenant.
