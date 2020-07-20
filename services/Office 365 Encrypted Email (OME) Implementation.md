@@ -1,6 +1,6 @@
 +++
 title = "Office 365 Encrypted Email (OME) Implementation"
-description = "Office 365 uses encryption in two ways: in the service, and as a customer control. In the service, encryption is used in Office 365 by default. If you want to increase security level of messaging and protect extremely sensitive data we will provide implementation service to email encryption and rights protection capabilities. "
+description = "Office 365 uses encryption in two ways: in the service, and as a customer control. In the service, encryption is used in Office 365 by default. If you want to increase the security level of messaging and protect extremely sensitive data, we will provide implementation services to email encryption and rights protection capabilities. "
 date = 2018-08-06
 
 [taxonomies]
@@ -17,59 +17,59 @@ manager = "Mike Mackey"
 Get secure email messaging implemented in your organization. With the
 new Office 365 Message Encryption (OME) capabilities, which
 leverage the protection features in Azure Information Protection, your
-organization can easily share protected email with anyone on any device.
+organization can easily share protected email with anyone, on any device.
 Users can send and receive protected messages with other Office 365
 organizations as well as non-Office 365 customers using Outlook.com,
 Gmail, and other email services.
 
 Our **objective** is to enable OME -- Office 365 Message
-Encryption in your Office 365 tenant and provide instruments to control
+Encryption -- in your Office 365 tenant and provide instruments to control
 sensitive data with flexible policies or ad hoc customer controls that
 are built into Office 365.
 
 An implementation project will be considered **successful** when you:
 
-1.  start to send encrypted email from any device,
-2.  easily navigate through encrypted messages,
+1.  start to send encrypted email from any device
+2.  easily navigate through encrypted messages
 3.  deliver encrypted email directly to recipients' inboxes
 4.  decrypt and read encrypted email with confidence, without installing
-    client software.
+    client software
 5.  enjoy simplified user management that eliminates the need for
-    certificate maintenance.
+    certificate maintenance
 
-### IT Partner is responsible to
+### IT Partner responsibilities
 
--   Setup Office Message Encryption (OME) if Office 365
--   Creating mail flow rules that define the conditions for encryption
--   bring your own key (BYOK) settings if needed
+-   Set up Office Message Encryption (OME) in Office 365
+-   Create mail flow rules that define the conditions for encryption
+-   Bring your own key (BYOK) settings, if needed
 
-### Client is responsible to
+### Client responsibilities
 
 -   Provide a dedicated point of contact responsible for working with IT
-    Partner. Coordinate any outside vendor resources and schedules.
--   Configure all networking equipment such as load balancers, routers,
-    firewalls, and switches.
+    Partner and coordinate any outside vendor resources and schedules, if needed
+-   Configure all networking equipment, such as load balancers, routers,
+    firewalls, and switches
 -   If Microsoft Outlook or other desktop email clients are to be used
     for connectivity to Office 365, tuning email software on client
-    workstations.
+    workstations
 
-### Out of the scope of this project (additional cost items)
+### Outside the scope of this project (additional cost items)
 
 -   Mail migration services to Office 365
 -   AD & group policy settings
 
 Upon completion of the engagement, we will provide a Project Closeout
-Report. This document will indicate final project status including
-evidence of meeting acceptance criteria, outstanding issues and final
-budget. If you want more extensive documentation -- this can be provided
+Report. This document will indicate final project status, including
+evidence of meeting acceptance criteria, outstanding issues, if any, and final
+budget. If you want more extensive documentation, this can be provided
 for an additional fee.
 
 ### Prerequisites
 
 -   You must have global admin level access to the source Office 365
-    tenant.
+    tenant
 -   You must have global admin level access to the destination Office
-    365 tenant with Exchange Online licenses available.
+    365 tenant, with Exchange Online licenses available
 
 To use the new OME capabilities, you need one of the following
 plans:
@@ -83,30 +83,30 @@ plans:
     following plans to receive the new Office 365 Message Encryption
     capabilities: Exchange Online Plan 1, Exchange Online Plan 2, Office
     365 F1, Office 365 Business Essentials, Office 365 Business Premium,
-    or Office 365 Enterprise E1.
+    or Office 365 Enterprise E1
 -   Each user benefiting from Office 365 Message Encryption needs to be
-    licensed to be covered by the feature.
--   For the full list see the [Exchange Online service
+    licensed to be covered by the feature
+-   For the full list, see the [Exchange Online service
     descriptions](https://technet.microsoft.com/library/exchange-online-service-description.aspx)
-    for Office 365 Message Encryption.
+    for Office 365 Message Encryption
 
 ### Plan
 
 May vary depending on your needs.
 
-1.  Kickoff meeting.
-2.  Pre implementation system health check.
-3.  Сonfiguring OME and additional tools.
-4.  Setting up an Exchange Online Transport Rules.
-5.  Verify email encryption.
-6.  Post implementation tasks.
+1.  Kickoff meeting
+2.  Pre-implementation system health check
+3.  Сonfiguring OME and additional tools
+4.  Setting up Exchange Online Transport Rules
+5.  Verifying email encryption
+6.  Posting implementation tasks
 
 ### Results
 
 You will be able to use Office 365 Message Encryption (OME)
 capabilities that protect your mails and mail flow rules that define the
-conditions for encryption. Your email recipients would be able to
-receive and reply to your secure emails using any device with any email
+conditions for encryption. Your email recipients should be able to
+receive and reply to your secure emails using any device, with any email
 client.
 
 ### Relevant articles
