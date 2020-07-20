@@ -232,8 +232,8 @@ May vary depending on your needs.
 2.  Pre-implementation system health check
 3.  Сonfiguring OME and additional tools
 4.  Setting up Exchange Online Transport Rules
-5.  Verify email encryption.
-6.  Post- implementation tasks
+5.  Verify email encryption
+6.  Post-implementation tasks
 
 ### Results
 
