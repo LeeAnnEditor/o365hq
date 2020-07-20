@@ -66,7 +66,7 @@ explanation](https://www.youtube.com/watch?v=KmfxCd5ublI).
                     account, or sign                                                                                                 private keys are
                     in with a work or                                                                                                compromised, the
                     school account                                                                                                   recipient needs to
-                    associated with                                                                                                  get a new private
+                    be associated with                                                                                                  get a new private
                     Office 365.                                                                                                      key and
                     Recipients can                                                                                                   redistribute public
                     also send                                                                                                        keys to all
