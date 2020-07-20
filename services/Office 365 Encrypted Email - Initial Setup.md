@@ -16,7 +16,7 @@ manager = "Mike Mackey"
 
 Microsoft provides three email encryption options for your Office 365.
 IT Partner will be able to implement any of them. You might compare the
-options shown below. Also, please check the [YouTube video
+options shown below. Also, please check out the [YouTube video
 explanation](https://www.youtube.com/watch?v=KmfxCd5ublI).
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------
