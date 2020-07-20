@@ -203,7 +203,7 @@ for an additional fee.
 -   You must have global admin level access to the source Office 365
     tenant
 -   You must have global admin level access to the destination Office
-    365 tenant, with Exchange Online licenses available.
+    365 tenant, with Exchange Online licenses available
 
 To use the new OME capabilities, you need one of the following
 plans:
@@ -212,7 +212,7 @@ plans:
     and E5, Microsoft E3 and E5, Office 365 A1, A3, and A5, and Office
     365 G3 and G5. Customers do not need additional licenses to receive
     the new protection capabilities powered by Azure Information
-    Protection.
+    Protection
 -   You can also add Azure Information Protection Plan 1 to the
     following plans to receive the new Office 365 Message Encryption
     capabilities: Exchange Online Plan 1, Exchange Online Plan 2, Office
@@ -239,7 +239,7 @@ May vary depending on your needs.
 
 You will be able to use Office 365 Message Encryption (OME)
 capabilities that protect your emails, and mail flow rules that define the
-conditions for encryption. Your email recipients would be able to
+conditions for encryption. Your email recipients should be able to
 receive and reply to your secure emails using any device with any email
 client.
 
