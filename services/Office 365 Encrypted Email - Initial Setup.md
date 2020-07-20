@@ -25,7 +25,7 @@ explanation](https://www.youtube.com/watch?v=KmfxCd5ublI).
                     Encryption                                                                                                       encryption
   ----------------- ----------------- ---------------------------------------------------------------------------------------------- -------------------
   What is it?\      Office 365        IRM is an encryption solution that also applies usage restrictions to email messages. S/MIME is a
-                    Message           It helps prevent sensitive information from being printed, forwarded, or copied by             certificate-based
+                    Message.          It helps prevent sensitive information from being printed, forwarded, or copied by             certificate-based
                     Encryption        unauthorized people.\                                                                          encryption solution
                     (OME) is IRM capabilities in Office 365 use Azure Rights Management (Azure RMS).\     that allows you to
                     a service built                                                                                                  both encrypt and
