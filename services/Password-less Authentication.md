@@ -1,6 +1,6 @@
 +++
 title = "Password-less Authentication"
-description = "The common practice for IT to attempt lessening password risk by employing stronger password complexity, including special characters and demanding more frequent password changes makes employees work vastly more complex and decreases their productivity. Most importantly, this approach isn’t enough for current cybersecurity threats and doesn’t deliver on organizational information security needs."
+description = "The common practice for IT to attempt lessening password risk by employing stronger password complexity, including special characters and demanding more frequent password changes, makes employees' work vastly more complex and decreases their productivity. Most importantly, this approach isn’t enough for current cybersecurity threats and doesn’t deliver on organizational information security needs."
 date = 2019-05-22
 
 [taxonomies]
@@ -28,23 +28,23 @@ Intune.
 4.  Configuration of authentication policy in Microsoft Intune
 5.  Providing self-setup instructions of the workstation interaction
     with a specific authentication device for the users
-6.  Break-fix for the solution within 2 weeks
+6.  Break-fix for the solution within two (2) weeks
 
 ### Client responsibilities
 
 1.  Informing users about changes
 2.  Providing access to Azure management
-3.  Providing remote access to workstations if necessary
+3.  Providing remote access to workstations, if necessary
 4.  The final configuration of each device (must be done by the
     employee-owner of the workstation)
 
-### Additional cost items not provided by the project
+### Additional cost items not provided by this project
 
 1.  Initial setup of Microsoft Intune (if your organization does not use
     Microsoft Intune, you can order its configuration)
 2.  Purchasing of licenses
 3.  User training
-4.  Azure AD configuration if the company uses only On-Premises AD
+4.  Azure AD configuration (if the company uses only On-Premises AD)
 
 ### Prerequisites
 
@@ -66,8 +66,8 @@ Intune.
 
 ### Success Criteria
 
-1.  Microsoft Intune is configured in such a way that allows employees
-    to use two-factor PC authentication and does not allow using a
+1.  Microsoft Intune is configured in such a way that it allows employees
+    to use two-factor PC authentication and does not necessitate using a
     password
 2.  Employees have successfully applied and are using the new
     authentication method
