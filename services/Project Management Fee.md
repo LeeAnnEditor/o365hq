@@ -33,7 +33,7 @@ the best prices for companies of any size.
 **IT Partner responsibilities**
 
 1.  Planning and time control
-2.  Interaction with a client and/or vendors
+2.  Interaction with the client and/or vendors
 3.  Preparing documentation, informational letters, and other materials
 4.  Financial reporting
 5.  Actions necessary for the project implementation and not depending
