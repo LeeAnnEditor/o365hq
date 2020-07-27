@@ -36,5 +36,4 @@ the best prices for companies of any size.
 2.  Interaction with the client and/or vendors
 3.  Preparing documentation, informational letters, and other materials
 4.  Financial reporting
-5.  Actions necessary for the project implementation and not depending
-    on its scope
+5.  Actions necessary for project implementation
