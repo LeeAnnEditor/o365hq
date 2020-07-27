@@ -1,6 +1,6 @@
 +++
 title = "Rapid Cyberattack Assessment Workshop (Full - On-site)"
-description = "The workshop is an opportunity to receive deeper visibility on potential vulnerability towards rapid cyberattacks for multiple reasons. For example, you might have already been a victim to an attack, you are unsure about your status of defensive measures or would like to obtain a risk assessment related to rapid cyberattacks. "
+description = "This workshop is an opportunity to receive deeper visibility on potential vulnerability to rapid cyberattacks. You may have already been the victim of an attack; or maybe you are unsure about your status of defensive measures, or would like to obtain a risk assessment related to rapid cyberattacks. "
 date = 2019-03-14
 
 [taxonomies]
@@ -14,75 +14,75 @@ duration = "3 weeks"
 manager = "Mike Mackey"
 +++
 
-Our **objective** is to help customers for identifying potential cyber
-security risks and gain knowledge about technologies that can help
-mitigate those risks.
+Our **objective** is to help customers in identifying potential 
+cybersecurity risks and gain knowledge about technologies that can 
+help mitigate those risks.
 
-### IT Partner is responsible for
+### IT Partner responsibilities
 
--   Understand customer's status vs cyber-attacks. Help customer to
-    identify elements in their IT environment which might make it prone
-    to rapidly spreading and potentially destructive cyber-attacks (e.g.
+-   Understand the customer's status vs cyberattacks. Help customer to
+    identify elements in their IT environment that might make it prone
+    to rapidly spreading and potentially destructive cyberattacks (e.g.,
     ransomware attacks).
--   Cyber-attacks Technical Security readiness. Provide guidance,
-    recommendations and best practices on how to successfully use
+-   Cyberattacks Technical Security readiness. Provide guidance,
+    recommendations, and best practices on how to successfully use
     Microsoft technologies to mitigate security threats that are
-    associated with Rapid Cyber-attacks.
--   Create Rapid Cyber-attack road-map. Provide prioritized and
-    actionable road-map for the customer containing proposed actions
+    associated with rapid cyberattacks.
+-   Create a rapid cyberattack road map. Provide prioritized and
+    actionable road map for the customer containing proposed actions
     based on discovered gaps, considering user impact and implementation
     cost.
 -   Map Microsoft technology capabilities and partner services to
     assessment findings, taking into account customer's objectives and
     requirements.
 
-### Client is responsible for
+### Client responsibilities
 
 -   Information: This includes accurate, timely (within three business
     days or as mutually agreed upon), and complete information.
--   Access to people. This includes access to knowledgeable Customer
+-   Access to people. This includes access to knowledgeable customer
     personnel, including business user representatives, and access to
-    funding if additional budget is needed to deliver project scope.
+    funding (if additional budget is needed to deliver project scope).
 -   Infrastructure (machine) to install and run RCA tool
-    (Dedicated machine on which RCA tool will be installed and
+    (dedicated machine on which RCA tool will be installed and
     from which it will be run).
 
 ### Plan
 
-**Week One -- Kick-Off**
+**Week One -- Kickoff**
 
--   Kick-off Meeting
--   Introduction to the engagement: objectives, flow, responsibilities
+-   Kickoff meeting
+-   Introduction to the engagement: objectives, flow, responsibilities,
     and governance
--   Provide and explain pre-assessment questionnaire to the customer
+-   Provide and explain preassessment questionnaire to the customer
 -   Explain RCA tool to the customer and provide "How to use
     RCA tool" document
 
-**Week One and Two (Assess)**
+**Weeks One and Two (Assess)**
 
 -   Complete/return questionnaire and install/run RCA tool
 -   Ensure availability of necessary resources
 -   Review RCA tool results
--   Begin Road-map planning
+-   Begin road map planning
 -   Finalize preparations for on-site
--   Second Preparation call
-    -   Confirmation on the completeness of the Questionnaire or
+-   Second preparation call
+    -   Confirmation on the completeness of the questionnaire or
         RCA tool output
-    -   Confirm attendance and dates for the onsite meeting
+    -   Confirm attendance and dates for the on-site meeting
 
 **Week Three**
 
 -   Day 1 -- whole-day on-site workshop
-    -   Definition of Rapid Cyber-attacks
-    -   Review, explain and discuss questionnaire and tool findings
+    -   Definition of rapid cyberattacks
+    -   Review, explain, and discuss questionnaire and tool findings
     -   Identify opportunities to leverage already deployed entitlements
     -   Perform gap analysis
-    -   Finalize Road-map
+    -   Finalize road map
 
 **Week Three -- Day 2 (Enable)**
 
 -   Day 2 -- whole-day on-site workshop
-    -   Road-map delivery workshop
+    -   Road map delivery workshop
     -   Solution(s) briefing and Technical Readiness presentations
     -   Engagement close-out
 
@@ -351,16 +351,16 @@ outcomes.]{lang="DE-AT" style="font-size:10.0pt;line-height:107%"}
 
 ### Results
 
--   Kick-off Presentation. Overview of the engagement covering vision
-    and objectives, requirements and next steps and actions
--   A questionnaire containing questions about organization and their
+-   Kickoff presentation. Overview of the engagement, covering vision
+    and objectives, requirements, and next steps and actions
+-   A questionnaire about the organization and its
     approach to exploit mitigation and attack surface reduction, ways of
     securing privileged access and providing business continuity to
-    mitigate effects of potential cyber-attacks, etc. etc.
--   Rapid Cyber-attack Assessment tool Reports. A set of reports
-    documenting findings of RCA tool -- reviewed, commented and
+    mitigate effects of potential cyberattacks, etc. 
+-   Rapid cyberattack assessment tool reports. A set of reports
+    documenting findings of the RCA tool -- reviewed and
     discussed by the partner in the workshop
--   Rapid Cyber-attack Road-map actionable road-map for addressing
+-   Rapid cyberattack road map. Actionable road map for addressing
     discovered gaps, including mapping capabilities of Microsoft
     technologies and Partner services to assessment findings, taking
     into account customer's objectives and requirements
