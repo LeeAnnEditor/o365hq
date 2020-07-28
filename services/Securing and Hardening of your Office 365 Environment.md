@@ -1,6 +1,6 @@
 +++
-title = "Securing and hardening of your Office 365 environment"
-description = "Our certified engineers will analyze how well you are leveraging existing and optional security controls and setting of your Office 365 environment and develop a prioritized plan according to Microsoft best-practices to increase security and reduce risks."
+title = "Securing and Hardening of your Office 365 Environment"
+description = "Our certified engineers will analyze how well you are leveraging existing and optional security controls and settings of your Office 365 environment and develop a prioritized plan according to Microsoft best-practices to increase security and reduce risks."
 date = 2019-05-23
 
 [taxonomies]
@@ -19,7 +19,7 @@ is? Time to stop wondering -- IT Partner is here to help. Our certified
 engineers will analyze your Office 365 organization's security based on
 your regular activities and security settings and develop a plan
 according to Microsoft recommendations to increase security and reduce
-risks. We share Microsoft's vision of security in the Cloud and we are
+risks. We share Microsoft's vision of security in the cloud and we are
 ready to help you protect your competitive advantage by keeping your
 data safer with enterprise-grade security. Real security is built on
 three pillars:
@@ -32,13 +32,13 @@ Our objective is making your Office 365 safe and secure.
 
 ### IT Partner can provide
 
-1.  Service-Level Security review
+1.  Service-level security review
 2.  Secure Score increasing
-3.  Anti-malware, Patching, and Configuration Management
-4.  Advanced Threat Protection
-5.  Customer Controls for Security
-6.  Multi-factor Authentication
-7.  Customer Controls for Privacy
+3.  Anti-malware, patching, and configuration management
+4.  Advanced threat protection
+5.  Customer controls for security
+6.  Multi-factor authentication
+7.  Customer controls for privacy
 
 ### Client responsibilities
 
@@ -50,20 +50,21 @@ Our objective is making your Office 365 safe and secure.
 4.  Provide an account in the required services with the rights
     necessary to implement the service 
 5.  Coordinate any outside vendor resources and schedules
-6.  Configure all network equipment such as load balancers, routers,
+6.  Configure all network equipment, such as load balancers, routers,
     firewalls, and switches
 7.  Review and approve engagement deliverables in a timely manner
 8.  Request and approve all change management tickets (if available) in
     the Client environment
 
-### Additional cost items not provided by the project
+### Additional cost items not provided by this project
 
--   Training customer team
--   Upon completion of the project, we will provide a project closeout
-    report. This document will indicate the final project status
-    including evidence of matching acceptance criteria, outstanding
-    issues and the final budget. If you require more extensive
-    documentation, it can be provided for an additional fee.
+-   Training customer team(s)
+
+Upon completion of the project, we will provide a project closeout report. 
+This document will indicate the final project status, including 
+evidence of matching acceptance criteria, outstanding issues, if any,
+and the final budget. If you require more extensive documentation, 
+it can be provided for an additional fee.
 
 ### Prerequisites
 
