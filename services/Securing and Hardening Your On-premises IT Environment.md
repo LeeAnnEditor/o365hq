@@ -1,5 +1,5 @@
 +++
-title = "Securing and Hardening your on premises IT environment"
+title = "Securing and Hardening Your On-premises IT Environment"
 description = "We implement best practices to make your on-premises IT infrastructure safer and more secure. Keep in mind that security requirements can vary for different types of workloads. We have relevant experience to secure your systems. "
 date = 2018-07-30
 
@@ -14,8 +14,8 @@ duration = "1 week"
 manager = "Mike Mackey"
 +++
 
-We will help to get the most out of what you have. We focus on systems,
-devices and technologies that you use every day. Our **objective** is to
+We will help you get the most out of what you have. We focus on systems,
+devices, and technologies that you use every day. Our **objective** is to
 make your on-premises environment safer and more secure.
 
 ### IT Partner responsibilities
@@ -28,38 +28,38 @@ make your on-premises environment safer and more secure.
 -   Encrypt virtual disks and disk storage
 -   Manage operating systems
 -   Firewall and network settings
--   Updates policy & software review
+-   Update policy and software review
 
 ### Client responsibilities
 
 -   Provide a dedicated point of contact responsible for working with IT
     Partner and coordinate any outside vendor resources and schedules
--   Configure all networking equipment such as load balancers, routers,
+-   Configure all networking equipment, such as load balancers, routers,
     firewalls, and switches
 -   Provide access to physical and virtual servers and/or systems and
     services, as needed. Provide remote and/or physical access to
-    facility and systems required to complete work
+    facility and systems required to complete work.
 
-### Out of the scope of this project
+### Outside the scope of this project
 
 -   Migration and deployment
 
 Upon completion of this project, we will provide a *project closeout
-report*. This document will indicate the final project status including
-evidence of meeting acceptance criteria, outstanding issues and the
+report*. This document will indicate the final project status, including
+evidence of meeting acceptance criteria, any outstanding issues, and the
 final budget. If you require more extensive documentation, this can be
 provided for an additional fee.
 
 ### Plan
 
-May vary depending on your needs.
+The plan may vary depending on your needs.
 
 1.  Kickoff meeting
 2.  On-premises health check
 3.  Start securing process
 4.  Verify changes
 5.  Finalize changes
-6.  Post-assessment tasks
+6.  Post-assessment tasks, if any
 
 ### Results
 
