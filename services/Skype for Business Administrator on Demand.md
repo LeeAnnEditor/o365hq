@@ -1,6 +1,6 @@
 +++
 title = "Teams / Skype for Business Administrator on Demand"
-description = "Our engineers take care of irregular administration chores in your Skype for Business Online. Support is available by phone, a Skype for Business session or remotely."
+description = "Our engineers take care of irregular administration chores for your Skype for Business Online. Support is available by phone, a Skype for Business session, or remotely."
 date = 2018-07-30
 
 [taxonomies]
@@ -14,17 +14,17 @@ duration = ""
 manager = "Mike Mackey"
 +++
 
-Our engineers have competencies and skills that allow them to provide
+Our engineers have competencies and skills that allow us to provide
 the best solutions for each problem quickly and professionally.
 
-Our **objective** is to provide on demand support your Skype for
+Our **objective** is to provide on demand support for your Skype for
 Business issues.
 
 ### Our responsibilities
 
 -   Allow users to contact external Skype for Business users
 -   Let users add external contacts from Skype
--   Choose who sees whether co-workers are online in the presence
+-   Choose who sees whether coworkers are online in the presence
     feature
 -   Turn mobile notifications on or off
 -   Create customized meeting invitations
@@ -34,9 +34,9 @@ Business issues.
 
 -   Any issues not related directly to Skype for Business
 
-### Out of scope (additional cost items)
+### Outside the scope of this service (additional cost items)
 
--   Training of customer team
+-   Training of customer team(s)
 -   Desktop software settings
 -   Skype for Business deployment and dial-in conferencing/PSTN Calling
     set up
