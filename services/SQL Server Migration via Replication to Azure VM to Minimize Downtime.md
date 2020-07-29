@@ -45,8 +45,6 @@ databases are available from Azure without data loss.
     services, as needed. Provide remote and/or physical access to
     facility and systems required to complete work.
 
-### Outside the scope of this project (additional cost items)
-
 Upon completion of the project, we will provide a *project closeout
 report*. This document will indicate the final project status including
 evidence of meeting acceptance criteria, outstanding issues and the
