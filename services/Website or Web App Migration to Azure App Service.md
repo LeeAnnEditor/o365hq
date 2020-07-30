@@ -1,6 +1,6 @@
 +++
-title = "Web site or web app migration to Azure App Service"
-description = "This service is designed to migrate your web sites from your web servers to the Microsoft Azure Cloud."
+title = "Website or Web App Migration to Azure App Service"
+description = "This service is designed to migrate your websites from your web servers to the Microsoft Azure Cloud."
 date = 2018-06-18
 
 [taxonomies]
@@ -15,7 +15,7 @@ manager = "Mike Mackey"
 +++
 
 We can provide the following services during the website/web app
-migration.
+migration:
 
 -   Automatic scaling up and down to meet demand in busy times and
     reduce costs during quiet times
@@ -27,7 +27,7 @@ migration.
 -   Traffic management to direct users to the closest geographic
     deployment
 
-Our **objective** is to move your web site from your web server to the
+Our **objective** is to move your website from your web server to the
 Azure App Service. Migration will be considered **successful** when your
 web app/website works in Azure correctly and stably.
 
@@ -37,48 +37,48 @@ IT Partner's responsibilities will depend on your choice of the above
 items and may include:
 
 -   Analyzing your web server installation, identifying which sites can
-    be migrated to App Service, highlighting any elements that cannot be
+    be migrated to the App Service, and highlighting any elements that cannot be
     migrated or are unsupported on the platform
 -   Installing and configuring Web Apps Migration Assistant
 -   Migrating sites and databases from a remote server to Azure
 
 The migration progress is clearly shown and we will see a summary screen
 at the end, which details the sites migrated and indicates if they were
-migrated successfully. It also provides links to the newly-created Azure
+migrated successfully. It also provides links to the newly created Azure
 web apps.
 
-### Client responsibilities:
+### Client responsibilities
 
 -   Provide a dedicated point of contact responsible for working with IT
     Partner and coordinate any outside vendor resources and schedules
--   Configure all networking equipment such as load balancers, routers,
+-   Configure all networking equipment, such as load balancers, routers,
     firewalls, and switches
 -   Provide access to physical and virtual servers and/or systems and
-    services, as needed. Provide remote and/or physical access to
-    facility and systems required to complete work
+    services, as needed; provide remote and/or physical access to
+    facility and systems required to complete the work
 -   Perform changes to internal and external DNS, as required
 
-### Out of the scope of this project (additional cost items)
+### Outside the scope of this project (additional cost items)
 
--   Web site support
+-   Website support
 -   Changes or modification of website/web app functionality
 
-Upon completion of the project, we will provide a *Project Closeout
-Report*. This document will indicate the final project status including
-evidence of meeting acceptance criteria, outstanding issues and the
+Upon completion of the project, we will provide a *project closeout
+report*. This document will indicate the final project status, including
+evidence of meeting acceptance criteria, outstanding issues, if any, and the
 final budget. If you require more extensive documentation, this can be
 provided for an additional fee.
 
 ### Plan
 
-May vary depending on your needs.
+The plan may vary depending on your needs.
 
 1.  Kickoff meeting
 2.  Elaboration specification
 3.  Start migration
 4.  Final deployment
-5.  Verify and fix issues
+5.  Verify and fix issues, if any
 
 ### Results
 
-You will have your websites in the Azure Cloud.
+You will have your website(s) in the Azure Cloud.
