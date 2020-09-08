@@ -1,5 +1,5 @@
 +++
-title = "How to find your Office 365 tenant name?"
+title = "How to find your Office 365 tenant name"
 description = ""
 date = 2018-07-04
 
@@ -9,7 +9,7 @@ types = [""]
 tags = ["office 365 tenant"]
 +++
 
-If you do need to find your Office 365 tenant name, it's pretty easy.
+If you need to find your Office 365 tenant name, it's pretty easy.
 Choose one of the following procedures.
 
 ### Office 365 Admin Center, if you have global admin rights
@@ -18,7 +18,7 @@ Choose one of the following procedures.
     Center](https://portal.office.com/adminportal) as an administrator.
 2.  Under **Setup** click on **Domains** (or just click
     [here](https://portal.office.com/adminportal#/Domains)).
-3.  Find a domain which ends with ***.onmicrosoft.com*** -- this is your
+3.  Find a domain that ends with ***.onmicrosoft.com*** -- this is your
     Office 365 tenant name.
 
 ### OneDrive for Business Service
@@ -46,7 +46,7 @@ Choose one of the following procedures.
 -   [Office 365 tenant -- what is
     it?](https://o365hq.com/faq/what-is-office-365-or-azure-ad-tenant)
 -   [How to find your Office 365 tenant
-    ID?](https://o365hq.com/faq/how-to-find-your-office-365-tenant-id)
+    ID](https://o365hq.com/faq/how-to-find-your-office-365-tenant-id)
 
 ### Let us help you with your Office 365 migration project
 
@@ -54,5 +54,5 @@ Complete this [Pre-migration
 Questionnaire](https://office365.typeform.com/to/TMQniV) and we will
 reply with a quote. Or join hundreds of organizations that switched
 their Office 365 subscriptions from Microsoft to us to enjoy 24/7
-professional support, better terms and free consulting and
+professional support, better terms, and free consulting and
 implementation hours. Contact sales@o365hq.com.
