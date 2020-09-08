@@ -1,6 +1,6 @@
 +++
 title = "How to upgrade and activate an existing installation of Windows 10 Pro to Windows 10 Enterprise E3/E5 purchased as a subscription in CSP channel"
-description = "We have prepared instruction for setting up your CSP subscription account in your current Windows installation. "
+description = "We have prepared instructions for setting up your CSP subscription account in your current Windows installation. "
 date = 2018-08-29
 
 [taxonomies]
@@ -9,7 +9,7 @@ types = [""]
 tags = ["windows 10", "windows 10 activate", "windows 10 update"]
 +++
 
-Click the Windows logo, and then the Settings icon
+Click the Windows logo, then the Settings icon.
 
 ![](https://o365hq.com/images/162.png)
 
@@ -21,7 +21,7 @@ Click Access work or school\> Connect.
 
 ![](https://o365hq.com/images/164.png)
 
-On the Set up a work or school account dialog, under Alternate actions,
+On the Set up a work or school account dialog box, under Alternate actions,
 choose **Join this device to Azure Active Directory(Required!)**.
 
 ![](https://o365hq.com/images/165.png)
@@ -41,7 +41,7 @@ information is correct, and click Join.
 ![](https://o365hq.com/images/168.png)
 
 After the reboot, select "Other User" and enter your account in Office
-365
+365.
 
 ![](https://o365hq.com/images/170.png)
 
