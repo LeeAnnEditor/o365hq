@@ -1,5 +1,5 @@
 +++
-title = "How to find your Office 365 tenant ID?"
+title = "How to find your Office 365 tenant ID"
 description = ""
 date = 2018-07-04
 
@@ -11,7 +11,7 @@ tags = ["office 365 tenant"]
 
 Your Office 365 tenant ID is a globally unique identifier
 (GUID) that is different than your tenant name or domain. On
-rare occasion, you might need this identifier, such as when configuring
+rare occasions, you might need this identifier, such as when configuring
 Windows group policy for OneDrive for Business.
 
 If you do need to find your Office 365 tenant ID, it's pretty easy.
@@ -50,7 +50,7 @@ Your tenant ID is listed in the output.
 -   [Office 365 tenant -- what is
     it?](https://o365hq.com/faq/what-is-office-365-or-azure-ad-tenant)
 -   [How to find your Office 365 tenant
-    name?](https://o365hq.com/faq/how-to-find-your-office-365-tenant-name)
+    name](https://o365hq.com/faq/how-to-find-your-office-365-tenant-name)
 
 ### Let us help you with your Office 365 migration project
 
@@ -58,5 +58,5 @@ Complete this [Pre-migration
 Questionnaire](https://office365.typeform.com/to/TMQniV) and we will
 reply with a quote. Or join hundreds of organizations that switched
 their Office 365 subscriptions from Microsoft to us to enjoy 24/7
-professional support, better terms and free consulting and
+professional support, better terms, and free consulting and
 implementation hours. Contact sales\@o365hq.com.
