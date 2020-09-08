@@ -21,7 +21,7 @@ Licensing Service Center (VLSC).
 3.  Once on this page -- enter a valid **Authorization** and **License
     Number** and click **Submit** (see screenshot \#2 below)\
     ![](https://o365hq.com/images/155.jpg)
-4.  A request will be sent to the administrator of the Agreement (i.e.
+4.  A request will be sent to the administrator of the Agreement (i.e.,
     Licensing ID) who should approve/reject as appropriate.
 
 If you see a warning saying **"Authorization / License combination
