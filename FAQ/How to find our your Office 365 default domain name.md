@@ -1,5 +1,5 @@
 +++
-title = "How to find our your Office 365 default domain name?"
+title = "How to find your Office 365 default domain name"
 description = ""
 date = 2018-07-10
 
@@ -14,11 +14,11 @@ tags = [""]
     your Global Administrator credentials.
 2.  Under **Settings** click on **Domains** (or just [click
     here](https://portal.office.com/adminportal/home#/Domains)).
-3.  Look for the domain name marked as **(Default)** in the **Domain
+3.  Look for the domain name marked **(Default)** in the **Domain
     name** column. This is your *default domain name for your Office 365
     tenant*. It may or may not be the same as your [Office 365 tenant
     name](https://o365hq.com/faq/how-to-find-your-office-365-tenant-name).
 
-Check the screenshot below:
+Check the screenshot below.
 
 ![](https://o365hq.com/images/763.png)
