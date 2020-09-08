@@ -10,16 +10,16 @@ tags = [""]
 +++
 
 The single Office Volume License permits you to install/access Office in
-a 3 ways:
+3 ways.
 
-1.  install on licensed device
-2.  install on portable device
-3.  install on network device.
+1.  Install on a licensed device
+2.  Install on a portable device
+3.  Install on a network device
 
-So if you have a device that is licensed with Office already, the
+So if you have a device that is already licensed with Office, the
 primary user of that device can install Office on their iPad without
 needing an additional Office license. But if you don't already own the
-license, purchase a single Office VL for that iPad and be done.
+license, purchase a single Office VL for that iPad.
 
 This licensing info can be found in the [Microsoft Product
 Terms](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=53 "Nov. pg. 10/11"):\
