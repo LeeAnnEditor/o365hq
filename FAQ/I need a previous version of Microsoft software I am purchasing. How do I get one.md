@@ -1,5 +1,5 @@
 +++
-title = "I need a previous version of Microsoft software I am purchasing. How do I get one?"
+title = "I need a previous version of the Microsoft software I am purchasing. How do I get one?"
 description = ""
 date = 2018-09-07
 
@@ -11,7 +11,7 @@ tags = ["vlsc", "volume licensing"]
 
 Microsoft always sells the current versions of their products and
 services. However, you can get a Product Key and Installation Files for
-the previous versions using the Downgrade rights. Downgrade right is a
+the previous versions using the Downgrade rights. Downgrade rights is a
 benefit available in Volume Licensing channel. Downgrade rights allow
 you to obtain a License in any version that Microsoft continues to make
 available for download through the Volume Licensing Service Center. For
