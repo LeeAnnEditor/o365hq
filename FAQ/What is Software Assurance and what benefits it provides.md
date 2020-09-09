@@ -1,6 +1,6 @@
 +++
-title = "What is Software Assurance and what benefits it provides?"
-description = "What is Software Assurance and what benefits it provides?"
+title = "What is Software Assurance and what benefits does it provide?"
+description = "What is Software Assurance and what benefits does it provide?"
 date = 2018-06-25
 
 [taxonomies]
@@ -19,7 +19,7 @@ unique technologies---all in one cost-effective program.
 Software Assurance Benefits
 ---------------------------
 
-### Planning services
+### Planning Services
 
 Get in-depth planning assistance from qualified partners or Microsoft
 Services to help you plan your deployment, whether on-premises or in the
@@ -41,30 +41,30 @@ Services](https://www.microsoft.com/en-us/Licensing/licensing-programs/software-
 
 ### Technical and End-User Training
 
-Your organization thrives on successful employees, efficient process,
+Your organization thrives on successful employees, efficient processes,
 and the right technology. Software Assurance promotes all three with
-training that helps you empower employees, design process, and plan your
+training that helps you empower employees, design processes, and plan your
 IT deployments. Class-based and online courses are designed to help you
 realize the return on your investment by providing the targeted
 information you need for effective and efficient deployment, management,
 and support of new Microsoft technologies.
 
-#### Training Vouchers for technical training
+#### Training Vouchers for Technical Training
 
 Build heroes within your organization. IT professionals and developers
 can improve their existing skills and master new technologies with
 in-depth, instructor-led training. Use training vouchers for technical
 classroom training taught by Microsoft Learning Partners. Developed by
 Microsoft experts, these IT courses help hone skills and build new ones,
-helping technical staff get the job done today, and make key
+helping technical staff get the job done today, as well as make key
 contributions in the future.
 
-#### Online E-Learning for end-user training
+#### Online E-Learning for End-User Training
 
 Successful employees are a key ingredient for an agile business, and
 well-timed training can help them reach their full potential.
-Individual, self-paced interactive online courses help your employees
-prepare to excel. The training that you get with Software Assurance
+Individual, self-paced, interactive online courses help your employees
+prepare to excel. The training you get with Software Assurance
 helps promote end-user readiness and excitement about what's next and
 what's possible.
 
@@ -75,7 +75,7 @@ Vouchers](https://www.microsoft.com/en-us/learning/software-assurance-benefits.a
 
 Your employees will welcome the opportunity to get a copy of Microsoft
 Office software for use at home. The Microsoft Office Home Use Program
-(HUP) provides your employees a way to buy low-cost downloads
+(HUP) provides your employees with a way to buy low-cost downloads
 of the Microsoft Office applications they use at work, including the
 latest versions of Office, Visio, Project, and Skype for Business. And
 it's a truly global benefit, available in 42 languages to employees
@@ -90,7 +90,7 @@ after employees have downloaded their software, they get similarly
 discounted upgrades through the length of your organization's active
 Software Assurance agreement.
 
-With HUP, you get both the software your employees want, and
+With HUP, you get both the software your employees want and
 additional materials to help you get the word out to your organization.
 
 Let your employees join the more than 15 million others to date who have
@@ -99,7 +99,7 @@ taken advantage of the Home Use Program!
 [Learn more about the Home Use
 Program](https://www.microsoft.com/en-us/Licensing/licensing-programs/software-assurance-home-use-program.aspx)
 
-### Additional benefits
+### Additional Benefits
 
 Planning, training, and home use are popular benefits, but Software
 Assurance doesn't stop there. You get a broad range of benefits that
@@ -113,4 +113,4 @@ Discover the value of Software Assurance for your business. The
 [Software Assurance benefits interactive
 chart](http://download.microsoft.com/download/0/0/3/0039F316-45CF-4083-AA6E-C35DA9D25C1B/SA_InteractiveBenefitsChart.pdf)
 (PDF, 768 KB) provides an overview of Software Assurance
-benefits as well as basic eligibility information.
+benefits, as well as basic eligibility information.
