@@ -20,33 +20,33 @@ You can purchase your Office 365 subscription in a few different ways
 4.  Via your EA agreement, from your Microsoft Large Account Reseller
     (custom terms).
 
-Please call or email us if you know what you are doing and want to
-discuss Volume Licensing option. Otherwise, we recommend you to go with
+Please call or email us if you want to
+discuss the Volume Licensing option. Otherwise, we recommend you go with
 the best overall option, which is the CSP.
 
-[So, why purchase your subscriptions in CSP or why switch to
-CSP from Direct or any other licensing channel:]{.underline}
+[So, why purchase your subscriptions in CSP, or why switch to
+CSP from Direct or any other licensing channel?]{.underline}
 
--   **Access to new plans** -- all new Office 365, Microsoft 365 and
-    Dynamics 365 plans appear ONLY in CSP channel.
+-   **Access to new plans** -- All new Office 365, Microsoft 365, and
+    Dynamics 365 plans appear ONLY in the CSP channel.
     Microsoft's goal is to slowly decommission the Advisor (direct)
-    model which you are using right now. So, it's better to switch
-    sooner than later.
--   **Free consulting support.** Depending on how much you spend each
-    month, you may get a certain number of free consulting hours from us
+    model you are using right now. So, it's better to switch
+    sooner rather than later.
+-   **Free consulting support** Depending on how much you spend each
+    month, you may get a certain number of free consulting hours from us,
     which you can spend on anything IT-related.
--   **Better terms and no cancellation fees.** There's no commitment if
-    you purchase in CSP (compare with annual commitment for all
-    enterprise (E1-E5) and standalone plans and 25% cancellation fee)
--   **Free break-fix support** -- you get support from us AND
-    from Microsoft. Both. And, trust me, it makes sense to have an MS
+-   **Better terms and no cancellation fees** There's no commitment if
+    you purchase in the CSP (compare with annual commitment for all
+    enterprise (E1-E5) and standalone plans and 25% cancellation fee).
+-   **Free break-fix support** -- You get support from us AND
+    from Microsoft. Both. It makes sense to have an MS
     Gold Partner on your side in case something happens -- it's easier
-    to reach us then Microsoft, we have years of experience working with
+    to reach us than Microsoft. We have years of experience working with
     Microsoft and we can escalate complex issues faster and better...
--   *It's not a benefit but worth mentioning.* In CSP channel
-    **price is the same** as when you purchase directly from Microsoft.
+-   *It's not a benefit but worth mentioning.* In the CSP channel,
+    **the price is the same** as when you purchase directly from Microsoft.
 
-To move forward with CSP **you need to do the following**:
+To move forward with CSP, **you need to do the following**:
 
 1.  Complete our short [New Customer Application
     form](https://office365.typeform.com/to/x5pDX2)
@@ -57,9 +57,9 @@ To move forward with CSP **you need to do the following**:
     support from us by clicking [this
     URL](https://portal.office.com/partner/partnersignup.aspx?type=Administration&id=18f52792-7cb2-42db-a422-bba05b359540&msppid=4100178)
 
-After that we will do everything else:
+After that, we will do everything else:
 
 1.  Provision CSP licenses to your tenant.
-2.  Work with Microsoft to cancel advisor (direct) licenses and do a
-    refund for unused portion of your direct subscription.
-3.  Send you an invoice for licenses purchased in CSP channel.
+2.  Work with Microsoft to cancel Advisor (direct) licenses and get a
+    refund for the unused portion of your direct subscription, if any.
+3.  Send you an invoice for licenses purchased in the CSP channel.
