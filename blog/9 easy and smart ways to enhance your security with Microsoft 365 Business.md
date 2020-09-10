@@ -92,7 +92,7 @@ Archiving is enabled:
     admins (retention policy tags). A retention tag specifies how long the
     message is kept and the action taken when retention time expires;
     retention policy is a method of applying a group of retention tags
-    to the mailbox. Iit defines the time emails, folder(s), or the whole
+    to the mailbox. It defines the time emails, folder(s), or the whole
     mailbox will be retained and whether it will be then deleted or
     preserved to comply with litigation or government requirements;
 -   if a retention tag is not applied, the default retention tag will be
@@ -136,7 +136,7 @@ going to be respected.
 ### Intune
 
 Microsoft developed Intune, a tool that helps an organization reach
-outside of its perimeter, managing and controling both Microsoft and
+outside of its perimeter, managing and controlling both Microsoft and
 non-Microsoft devices. It's compatible with the most common devices and
 apps in the marketplace, so the employees' mobility grows
 considerably. The best thing about Intune is that with such a great
