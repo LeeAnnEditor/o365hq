@@ -1,6 +1,6 @@
 +++
 title = "Accessibility in Microsoft 365"
-description = "According to a Cornell study, most people with disabilities choose not to disclose their disability to their employer. You can use the built-in, inclusive capabilities within Microsoft 365 to empower your team and foster an inclusive environment, without having to know the specific needs of your team members."
+description = "According to a Cornell study, most people with disabilities choose not to disclose their disability to their employer. You can use the built-in, inclusive capabilities within Microsoft 365 to empower your team and foster an inclusive environment without having to know the specific needs of your team members."
 date = 2020-01-13
 
 [taxonomies]
@@ -11,34 +11,34 @@ tags = ["accessibility", "microsoft 365", "office 365"]
 
 ![](https://o365hq.com/images/646.png)
 
-People with dyslexia or low vision, may prefer hearing, rather than
-reading content. *Read Aloud* reads text out loud while simultaneously
+People with dyslexia or low vision may prefer hearing, rather than
+reading, content. *Read Aloud* reads text out loud while simultaneously
 highlighting the related text, improving word recognition and decoding,
 and aiding with comprehension and focus.
 
 Read Aloud supports multiple languages and can automatically detect
-languages in a multi-lingual document. You can also choose the voice and
+languages in a multilingual document. You can also choose the voice and
 speed you prefer. With Read Aloud, you and your team can stay productive
 and listen to the documents while on the go. You can also use Read Aloud
-across Microsoft 365, including having webpages read aloud within the
+across Microsoft 365, including having web pages read aloud within the
 Edge browser.
 
 ![](https://o365hq.com/images/641.png)
 
-Once you review your team activities and answer urgent questions, you
+Once you review your team activities and answer relevant questions, you
 can immediately jump into your projects as soon as you arrive at the
 office. Microsoft 365 makes it easy to collaborate on your shared
 projects throughout the day.
 
 For your team members who are blind or have low vision, have learning
-disabilities, are emerging readers or learning a new language,
+disabilities, are emerging readers, or learning a new language,
 *Immersive Reader* increases readability and comprehension of chats,
-channel conversations and documents within Teams.
+channel conversations, and documents within Teams.
 
 ![](https://o365hq.com/images/642.png)
 
 Your team can consume content in a way that suits their individual needs
-and preferences, increasing focus, word recognition and comprehension
+and preferences, increasing focus, word recognition, and comprehension
 with *Text and Reading Preferences*, and pronunciation with *Grammar
 options*. Team members can leverage Immersive Reader across apps within
 Microsoft 365.
@@ -60,10 +60,10 @@ important content across your company.
 For someone who is deaf or hard of hearing, this empowers them to
 contribute to meetings and follow up with a speaker if they miss
 something.\
-*Microsoft Whiteboard*, a freeform, intelligent canvas, within Microsoft
-Teams meetings brings your team together within the same virtual canvas,
+*Microsoft Whiteboard* is a freeform, intelligent canvas within Microsoft
+Teams meetings that brings your team together within the same virtual canvas
 for real-time ideation, creating, and collaboration. For those who work
-remote to accommodate their disability, collaborating from anywhere is
+remotely to accommodate their disability, collaborating from anywhere is
 critical!
 
 Whiteboard supports automatic *Alt text*, leveraging Microsoft's
@@ -71,7 +71,7 @@ Cognitive Vision Service to analyze the content of the image and
 automatically suggest a text description.
 
 Soon, Teams meetings and live events will support *Live Captions &
-subtitles*, enabling attendees to read speaker captions in real-time.
+subtitles*, enabling attendees to read speaker captions in real time.
 
 ![](https://o365hq.com/images/644.png)
 
@@ -82,7 +82,7 @@ spoken languages and displays on-screen captions in one of 60+
 languages, giving your team access to content, no matter the disability
 or environment where the content is consumed.
 
-*Design Ideas* leverages the power of the cloud to design high quality,
+*Design Ideas* leverages the power of the cloud to design high-quality,
 inclusive slides. Designer automatically identifies the text not only as
 a list but as a set of dates, turning it into an easily readable
 graphic. This is a great tool that enables team members with cognitive
@@ -98,8 +98,8 @@ navigate for everyone.
 
 At the top of your Microsoft Office apps, you can use *Microsoft Search*
 to quickly find what you need. People who are blind and navigate the
-ribbon with a screen reader can see steps, and people with dyslexia can
-describe the feature they're looking for if they can't remember the
+ribbon with a screen reader can "see" steps, and people with dyslexia can
+describe the feature they're looking for, even if they can't remember the
 word!
 
 ![](https://o365hq.com/images/650.png)
@@ -133,8 +133,8 @@ vision.
 
 As many as 1 in 12 men with Northern European ancestry have the common
 form of red-color blindness, so *Color filters* are available to get
-meaning from color---like in statements that display profit in green and
-loss in red formatting.
+meaning from color -- like in statements that display profit in green and
+loss in red.
 
 ![](https://o365hq.com/images/649.png)
 
@@ -169,12 +169,12 @@ through the app.
 The accessible label reflects what most users expect visually within
 apps and works well with the screen readers, reducing the barriers of
 effective collaboration and enabling the millions of people who are
-blind or low vision around the world to successfully collaborate with
+blind or have low vision around the world to successfully collaborate with
 their team.
 
 Integrating line of business systems together into a central location,
 like Microsoft Teams, enables you and your team to transform business
-processes and accelerate the flow of information across their company,
+processes and accelerate the flow of information across your company,
 teams, and systems, from any location.
 
 ![](https://o365hq.com/images/645.png)
