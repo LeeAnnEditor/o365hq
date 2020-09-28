@@ -1,5 +1,5 @@
 +++
-title = "Computing is not just about computers"
+title = "Computing is not just about Computers"
 description = "Microsoft CEO Satya Nadella took the Microsoft Ignite stage and shared his thoughts about the future."
 date = 2018-09-27
 
