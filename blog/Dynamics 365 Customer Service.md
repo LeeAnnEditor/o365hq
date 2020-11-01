@@ -10,17 +10,17 @@ tags = ["dynamics365"]
 +++
 
 Discoverable and accessible knowledge available to customers through a
-collaboration enabled portal reduces support costs, improves customer
+collaboration-enabled portal reduces support costs, improves customer
 satisfaction, and increases brand loyalty. The self-service portal
 engages customers with the means of support they desire through a
 searchable knowledge base, live and automated chat, and discussion
 forums, as well as the ability to provide organizations with feedback
-through polls, ratings and comments.
+through polls, ratings, and comments.
 
-### Customer Portal Self Service
+### Customer Portal Self-Service
 
 Dynamics 365 Customer Service provides a branded, personalized
-self-service experience, a searchable knowledge base that delivers
+self-service experience with a searchable knowledge base that delivers
 consistent and up-to-date answers. Customers can easily access it and
 interact with it.
 
@@ -35,8 +35,8 @@ content.
 ![](https://o365hq.com/images/557.png)
 
 Dynamics 365 for Customer Service has a complete KB article management
-system that tracks and allows for Articles to include video and another
-multi-media content. Users can rate and comment on the content. The
+system that tracks and allows for articles to include video and other
+multimedia content. Users can rate and comment on the content. The
 ratings play a crucial role. You can define triggers to unpublish, or
 otherwise take action, on content based on rating thresholds.
 *Gamification* can be tied in to award KB authors points based on
@@ -52,9 +52,9 @@ click to pick up the chat.
 
 ![](https://o365hq.com/images/555.png)
 
-In Navigation history there are details related to the customer location
+In thte Navigation history there are details related to the customer location
 and chat information. With additional configuration, Live Assist can
-provide details about the customer including login name and customer
+provide details about the customer, including login name and customer
 details.
 
 ![](https://o365hq.com/images/564.png)
@@ -66,7 +66,7 @@ violation of terms.
 
 ![](https://o365hq.com/images/559.png)
 
-### Agent-Desktop
+### Agent Desktop
 
 Unified Service Desk for Dynamics is completely customizable to meet
 your business requirements. One of the key features of the desktop is
@@ -74,16 +74,16 @@ the ability to integrate different applications into the desktop to
 support legacy applications, cloud services, chat, AI, or integrate with
 other Dynamics platforms.
 
-A voice activated chat service allows the agent to interact with the
+A voice-activated chat service allows the agent to interact with the
 cases using voice. The virtual assistant suggests that the open case
-from before is the best service case to start working on contextual
-knowledge and help you focus on the right activities.
+from before is the best service case to start working on for contextual
+knowledge to help you focus on the right activities.
 
 ![](https://o365hq.com/images/560.png)
 
 The agent script can be customized for different purposes and ensures
 that a quality experience is provided for customers through alignment
-with a uniform, managed process. Here you can see the customer's profile
+with a uniform managed process. Here you can see the customer's profile
 and contact information in the system.
 
 ![](https://o365hq.com/images/563.png)
@@ -91,7 +91,7 @@ and contact information in the system.
 ![](https://o365hq.com/images/562.png)
 
 Workflows could also be used to add more information, such as branding,
-graphics, and suggested message boilerplate. Dynamics 365 and the
+graphics, and suggested message boilerplates. Dynamics 365 and the
 Unified Service Desk will help you resolve any case quickly and address
 the customer's needs.
 
