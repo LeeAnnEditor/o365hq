@@ -1,6 +1,6 @@
 +++
 title = "Dynamics 365 Sales"
-description = "Interaction with businesses has become radically different. Nowadays, customers are more competent and stay connected via mobile devices. Sales teams can easily interact with buyers through authentic and personal engagement and concentrate more on selling process."
+description = "Interaction with businesses has become radically different. Nowadays, customers are more competent and stay connected via mobile devices. Sales teams can easily interact with buyers through authentic and personal engagement and concentrate more on the selling process."
 date = 2019-10-01
 
 [taxonomies]
@@ -11,7 +11,7 @@ tags = ["dynamics365"]
 
 ### Inside Sales
 
-With Dynamics 365 for Sales you can easily create new leads and follow
+With Dynamics 365 for Sales, you can easily create new leads and follow
 up after sales. Once you've named the lead and gathered the customer's
 contact information, it can be qualified. All the activities are
 automatically created by a workflow.
@@ -19,7 +19,7 @@ automatically created by a workflow.
 ![](https://o365hq.com/images/538.png)
 
 Dynamics 365 can also surface suggested products for cross-sell. To
-speed different kinds of requests, it is possible to add a chat bot to
+speed up different kinds of requests, it is possible to add a chat bot to
 handle special requests. This bot can be created using the Microsoft Bot
 Framework, a set of tools and APIs for creating intelligent
 chat bots. With some additional coding, you can extend this bot to take
@@ -47,11 +47,11 @@ customer can download a copy of the signed document for their records.
 ### Sales Representative
 
 The Dynamics 365 add-in for Outlook gives mobile sellers access to sales
-data within the context of an email---whether it's on their desktop PC,
+data within the context of an email--whether it's on their desktop PC,
 a laptop, tablet, or mobile phone.
 
-When you click on the Dynamics 365 icon in this email, you get access to
-details that are relevant to this opportunity including contact
+When you click on the Dynamics 365 icon in the email, you get access to
+details that are relevant to this opportunity, including contact
 information, account details, and related opportunities. By clicking on
 the opportunity, you get more information. This helps the sales rep
 arrive prepared for their next meeting with the customer.
@@ -84,7 +84,7 @@ opportunities that are available for the partner to work on.
 When you click on an opportunity, you can see the full details,
 including opportunity size, timing, and so on. Once an opportunity has
 been accepted, it moves to the Managed Opportunities table. This table
-lists all the opportunities that the partner is currently working on.\
+lists all the opportunities the partner is currently working on.\
 Portals in Dynamics 365 include a rich knowledge base, self-service, and
 case management capabilities. As soon as an opportunity is accepted, the
 partner can edit it and add details.
@@ -96,7 +96,7 @@ into sales data from the executive level down to the individual sales
 representative. Power BI Dashboards can be embedded in Dynamics 365 to
 provide intelligence for specific teams or job roles. Here there are
 several data points that are of interest to a sales manager, including
-Won Revenue, our current Average deal size, and our current Lead
+Won Revenue, current Average deal size, and current Lead
 Qualification Rate. You can also open this dashboard in Power BI to get
 access to more features and analysis. Built-in intelligence in Power BI
 lets you ask questions about your data and get answers in real time. The
@@ -107,7 +107,7 @@ sales performance. These visualizations are interactive.
 
 Gamification is a new service that allows users to take part in various
 competitions and where you manage your current games. Such games
-stimulate them to accomplish certain pre-defined KPI's by
+stimulate them to accomplish certain predefined KPIs by
 awarding prizes and benefits.
 
 ![](https://o365hq.com/images/546.png)
@@ -115,6 +115,6 @@ awarding prizes and benefits.
 You can also add spectators. Spectators aren't competing in the game,
 but they can view it. For example, we could add members of the
 management team to give them visibility into the game. Finally, we can
-specify prizes for this game.
+specify prizes for the game.
 
 ![](https://o365hq.com/images/542.png)
