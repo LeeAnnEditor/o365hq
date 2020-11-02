@@ -1,5 +1,5 @@
 +++
-title = "Email collaboration in Office 365"
+title = "Email Collaboration in Office 365"
 description = "Office 365 encourages collaboration through Groups in Outlook, distribution lists (also called distribution groups), shared mailboxes, and public folders. Each of these options has a different purpose, user experience, and feature set. What to use depends on what the user needs to do and which tools your organization provides."
 date = 2018-09-27
 
@@ -112,7 +112,7 @@ collaboration features of Office 365.\
 
 Users who want a collaboration workspace for their group messages,
 files, and calendar that is integrated with the Office 365 services they
-already use (Outlook Web App, OneDrive for Business)
+already use (Outlook Web App, OneDrive for Business).
 
 Users who need to send email to a group of recipients with a common
 interest or characteristic.
@@ -124,7 +124,7 @@ questions get quicker answers, and related emails are all stored in one
 mailbox.
 
 Delegates working on behalf of a virtual identity, such as
-support\@contoso.com. Delgates can respond to email as that shared
+support\@contoso.com. Delegates can respond to email at that shared
 mailbox identity.
 
 With the proper permissions, everyone in your organization can access
@@ -143,7 +143,7 @@ Large
 
 **Access**
 
-Exchange Online and Office 365 users
+Exchange Online and Office 365 users.
 
 For distribution groups, members must be manually added. For dynamic
 distribution groups, members are added based on filtering criteria.
@@ -152,7 +152,7 @@ Users can be granted Full Access and/or Send As permissions. If granted
 Full Access permissions, users must also add the shared mailbox to their
 Outlook profile to access the shared mailbox.
 
-Accessible by anyone in your organization
+Accessible by anyone in your organization.
 
 **Shared calendar?**
 
@@ -167,11 +167,11 @@ Yes
 **Email arrives in user's personal Inbox?**
 
 No. Users can subscribe to a group and then forward all Group messages
-to their inbox
+to their inbox.
 
 Yes. Email arrives in the inbox of all distribution group members.
 
-No. Email arrives in the Inbox of the shared mailbox.
+No. Email arrives in the inbox of the shared mailbox.
 
 No. Email arrives in the public folder.
 
