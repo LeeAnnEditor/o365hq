@@ -1,6 +1,6 @@
 +++
-title = "Free Microsoft 365 Business Premium for nonprofits offer"
-description = "Microsoft 365 Business Premium is an integrated solution that brings together the best-in-class productivity of Office 365 with simple device management and security to connect people and information in an intelligent new way. Eligible nonprofits can obtain Microsoft 365 Business Premium with up to 10 seats donated, and then pay just $5 per additional user per month."
+title = "Free Microsoft 365 Business Premium for Nonprofits"
+description = "Microsoft 365 Business Premium is an integrated solution that brings together the best-in-class productivity of Office 365 with simple device management and security to connect people and information in an intelligent, new way. Eligible nonprofits can obtain Microsoft 365 Business Premium with up to 10 seats donated, and then pay just $5 per additional user per month."
 date = 2020-04-27
 
 [taxonomies]
@@ -19,10 +19,10 @@ this announcement, we're excited to extend support to nonprofits'
 volunteers.
 
 And now, you can get Microsoft 365 Business Premium free for up to 10
-users and discounted at \$5 per user per month for additional users.
+users and discounted at $5 per user, per month for additional users.
 Microsoft 365 brings together the best-in-class productivity of Office
 365 with simple device management and security to connect people and
-information in an intelligent new way.
+information in an intelligent, new way.
 
 ### Useful links
 
