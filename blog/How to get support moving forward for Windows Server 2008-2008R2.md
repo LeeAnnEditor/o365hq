@@ -1,6 +1,6 @@
 +++
 title = "How to get support moving forward for Windows Server 2008/2008R2"
-description = "Windows Server 2008 and Windows Server 2008R2 are approaching the end of their support lifecycle. After 14/1/2020 there will be no additional free security updates on-premises, non-security updates, free support options and online technical content update."
+description = "Windows Server 2008 and Windows Server 2008R2 are approaching the end of their support life cycle. After 14-Jan-2020, there will be no additional free security updates on-premises, non-security updates, free support options, or online technical content updates."
 date = 2020-01-08
 
 [taxonomies]
@@ -9,20 +9,20 @@ types = ["Migration"]
 tags = ["windows server update"]
 +++
 
-So, there are only three ways to get support moving forward for Windows
-Server 2008/2008 R2 licenses. First you can purchase extended support
-for three years which is the most expensive route. This can only be
-accomplished directly with MS and you would need to be in an Enterprise
-Agreement direct with MS.
+There are only three ways to get support moving forward for Windows
+Server 2008/2008 R2 licenses. First, you can purchase extended support
+for three years, which is the most expensive route. This can only be
+accomplished directly with Microsoft and you would need to be in an Enterprise
+Agreement directly with Microsoft.
 
-Second you can convert your current OS to a newer OS that is supported
-and that can be accomplished through our Volume Licensing Team. Major
-issue here is around any applications you have being compatible with
+Second, you can convert your current OS to a newer OS that is supported,
+and this can be accomplished through our Volume Licensing Team. The major
+issue here is around any applications you have being compatible with a
 newer OS.
 
-Finally, you can move that workload to Azure which will allow you 3
+Finally, you can move that workload to Azure, which will allow you three (3)
 years of free support while testing applications on newer operating
-systems to beat the 3 year end of life deadline.
+systems to beat the 3-year end-of-life deadline.
 
 ### Migrate to Azure
 
