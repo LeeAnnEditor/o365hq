@@ -1,6 +1,6 @@
 +++
 title = "How to make sure you are purchasing a legit license"
-description = "Each year, tens of thousands of people report to Microsoft that they bought software that they later learned was counterfeit, and unfortunately you may as well have fallen a victim to pirated software."
+description = "Each year, tens of thousands of people report to Microsoft that they bought software that they later learned was counterfeit, and unfortunately, you may as well have fallen victim to pirated software."
 date = 2019-11-18
 
 [taxonomies]
@@ -9,28 +9,28 @@ types = ["Consulting"]
 tags = ["security", "vlsc", "volume licensing"]
 +++
 
-There exist some common techniques cyber criminals use to mislead users.
+There exist some common techniques cybercriminals use to mislead users.
 One of them is to set up a fake website that falsely claims the
 legitimacy of the software licenses and subscriptions offered for sale.
 Experienced cybercriminals even go to great lengths to make websites
 look authentic and to trick consumers into buying fraudulent
 subscriptions or counterfeit software.
 
-We have collected some tips to help you acquire a legit license. The
+We have collected some tips to help you acquire a legitimate license. The
 following instructions will allow you to stay on the right track and
 avoid purchasing fake software.
 
 **1.** Beware of huge discounts. It may seem very attractive, but it may
 not be true. Microsoft's discount programs are available for all
-partners, but if the low price is found only in one store -- it can be
-considered a "red flag".
+partners, but if the low price is found only in one store -- that can be
+considered a red flag.
 
 ![](https://o365hq.com/images/610.png)
 
-**2.** All Microsoft partners have their own profiles in MPN
+**2.** All Microsoft partners have their own profiles on the MPN
 website (you may see ours [on the
 link](https://www.microsoft.com/en-us/solution-providers/partnerdetails/it-partner-%28office-365-azure-and-cloud-solutions%29_18f52792-7cb2-42db-a422-bba05b359540/0bbc85bb-e3bc-4233-af48-94383081bae3)
-). If you don't see some company on the catalog, it means it is
+). If you don't see a company on the catalog, it likely means it is
 committing fraud.
 
 **3.** Consultations and additional services. Do not hesitate to call a
