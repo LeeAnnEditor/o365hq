@@ -1,6 +1,6 @@
 +++
-title = "Inside Azure Datacenter Architecture"
-description = "Extraordinary engineer, now CTO of Microsoft Azure, Mark Russinovich told about Azure's datacenters at Build 2018. "
+title = "Inside Azure datacenter architecture"
+description = "Extraordinary engineer and now CTO of Microsoft Azure, Mark Russinovich talks about Azure's datacenters at Build 2018. "
 date = 2018-05-29
 
 [taxonomies]
