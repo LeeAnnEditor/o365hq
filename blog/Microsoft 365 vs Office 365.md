@@ -1,6 +1,6 @@
 +++
-title = "Microsoft 365 vs Office 365"
-description = "Microsoft 365 vs. Office 365: What’s the difference? Let&#8217;s get a look."
+title = "Microsoft 365 versus Office 365"
+description = "Microsoft 365 vs. Office 365: What’s the difference? Let's take a look."
 date = 2018-12-03
 
 [taxonomies]
