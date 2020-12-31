@@ -9,7 +9,7 @@ types = ["Security and Protection"]
 tags = ["cloud app security", "cloud security, "security"]
 +++
 
-Microsoft tried their best to outline the most consistent path but know
+Microsoft tried their best to outline the most consistent path but knows
 that over time, things may change. That's not a negative -- it's a
 positive talking point to your audience if an expected part of the
 experience doesn't show up -- it's Microsoft 365 Security automatically
@@ -43,11 +43,11 @@ you filter alerts and jump into data about specific threats.
 For most of us, protecting our users from email threats is job number
 one -- or the one that keeps us the most preoccupied. It's also the data
 breach attempt that topped the list of the 2019 Verizon Data Breach
-Report -- specifically phishing attempts. Encourage the participants to
+Report -- specifically, phishing attempts. Encourage participants to
 explore the investigation page -- you can point out the different
 resources available to the investigation, including the investigation
-graph, the emails, and users being investigated, as well as the
-timeframe of the threat, and actions taken or required. Automated
+graph, emails, and users being investigated, as well as the
+timeframe of the threat and actions taken or required. Automated
 Incident Response (or AIR) designed by Microsoft's expert
 security professionals automatically contains, investigates, and
 remediates today's most sophisticated threats. It is also powered by
@@ -55,10 +55,10 @@ Microsoft's Intelligent Security Graph (ISG). ISG's
 purview is vast, monitoring over 6.5 trillion signals a day across
 Microsoft's cloud properties.\
 When an external threat is identified and remediated, that knowledge is
-shared -- so that other organizations benefit from that knowledge. There
+shared -- so other organizations benefit from that knowledge. There
 are two key terms to learn: incident and response. An incident is a
 group of alerts associated with the same threat. Mapping out an
-incident, you effectively understand the 'life of the threat'. You gain
+incident, you effectively understand the "life of the threat." You gain
 insight into how it entered your environment, who and what it impacted,
 and how to remove it and restore your environment to pre-threat
 conditions.
@@ -69,12 +69,12 @@ form the incident. When exploring alerts manually, SecOps teams must
 spot and correlate entities at risk from threats. This takes too much
 time and implies multiple tools and systems. With AIR, you can
 spend less time hunting for alerts and more time focusing on
-preventative measures like education and fine-tuned email security
+preventative measures, like education and fine-tuned email security
 policies that best fit your needs.
 
 ![](https://o365hq.com/images/680.png)
 
-Another secret weapon against external threats like phishing is making
+Another weapon against external threats like phishing is making
 your employees aware of the threats. With Attack Simulator you can
 easily run realistic attack scenarios in your company to recognize and
 detect vulnerable users before a real attack affects your bottom line.
@@ -83,9 +83,9 @@ name spear-phishing attack, password-spray attack, and brute force
 password attack. It is also possible to create anti-phishing policies to
 keep specific groups safe from phishing scams, as well as the entire
 domain. Microsoft security experts are seeing attackers use domain name
-spoofing -- to imitate emails like they\`re coming from known brands or
+spoofing -- to imitate emails like they're coming from known brands or
 colleagues. Very targeted spear-phishing has proven to be a successful
-approach and more specific groups in organizations are being targeted
+approach, and more specific groups in organizations are being targeted
 for spoofing. Being able to provide targeted anti-phishing policies to
 further protect those groups is invaluable.
 
@@ -97,8 +97,8 @@ doesn't rely on the victim to install a program that secretly mines
 cryptocurrency. In-browser cryptojacking, for example, skips that step
 altogether, using JavaScript on a compromised web page to get the
 browser to mine for cryptocurrencies. Hackers have used cryptocurrency
-mining as a decoy to launch more dangerous cyber-attacks, and damage can
-also be done to the machine/device that's been "cryptojacked". And of
+mining as a decoy to launch more dangerous cyberattacks, and damage can
+also be done to the machine/device that's been "cryptojacked." And of
 course, cryptojacking takes resources away from systems critical to the
 business. To further protect the company, you can use security
 capabilities built into Windows 10 Enterprise and Defender to prevent
@@ -108,46 +108,46 @@ sophisticated attacks.
 
 Advanced hunting helps you identify possible threats using a powerful
 search and query tool. It is also possible to build custom detection
-rules based on the queries you created and surface alerts in here and
+rules based on the queries you created and surface alerts and
 benefit from shared queries from the community that are stored in
 GitHub.
 
 ![](https://o365hq.com/images/681.png)
 
-According to Verizon\`s 2019 Data Breach Investigation Report, 34 % of
+According to Verizon's 2019 Data Breach Investigation Report, 34% of
 breaches involved internal actors. To make matters worse, key tactics of
-these breaches included errors and misuse of authorized users. It\`s
+these breaches included errors and misuse of authorized users. It's
 heartbreaking to think that your own employees represent a sizable
-cybersecurity threat to the company -- but it\`s the reality we face.
+cybersecurity threat to the company -- but it's the reality we face.
 You should be prepared to detect and proactively respond to these
-internal threats. To keep your organization\`s expanding universe of
+internal threats. To keep your organization's expanding universe of
 cloud-based apps and data safe, you need a tool that focuses on cloud
 app security. Microsoft 365 includes the Cloud App Security dashboard, a
 crucial component of the Microsoft Cloud Security stack.
 
 Here you also have visibility into all of the apps running on the
-network -- and potential shadow/rouge apps in the unsanctioned apps
+network -- and potential shadow/rogue apps in the unsanctioned apps
 listed. Cloud Discovery examines your traffic logs against Microsoft
-Cloud App Security\`s cloud app catalog over 16,000 cloud apps that are
-impartially analyzed based on more then 70 risk factors. Each app gets a
+Cloud App Security's cloud app catalog of over 16,000 cloud apps that are
+impartially analyzed based on more than 70 risk factors. Each app gets a
 score that helps you decide whether to allow usage.
 
 ![](https://o365hq.com/images/682.png)
 
-Microsoft along with other industry leaders are working to remove
+Microsoft, along with other industry leaders, is working to remove
 passwords using other, more secure methods. By eliminating passwords,
-you can reduce the odds of your identities being compromised by 99,9 %
+you can reduce the odds of your identities being compromised by 99.9%,
 according to a recent Microsoft Security Intelligence Report -- while
 getting rid of the thing users hate the most -- remembering passwords!
 Built into Windows 10 is a passwordless solution called Windows Hello
 for Business, which uses biometric or a personal ID number as the method
-for secure sing in. To set this up for your company, you should hop over
-to Microsoft Intune. Here you can set the parameters of your Windows
+for secure sign-in. To set this up for your company, you should hop over
+to Microsoft Intune. There you can set the parameters of your Windows
 Hello setup -- whether you allow for biometric authentication, and the
 option for using security keys for sign-in.
 
 In addition to Windows Hello for Business, you can also deploy Microsoft
-Authenticator to secure users when they are not accessing org resources
-via managed Windows 10 devices, for example on iOS and Android.
+Authenticator to secure users when they are not accessing organizational resources
+via managed Windows 10 devices, for example, on iOS and Android.
 
 ![](https://o365hq.com/images/683.png)
