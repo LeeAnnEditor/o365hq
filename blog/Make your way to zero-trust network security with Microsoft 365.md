@@ -1,6 +1,6 @@
 +++
 title = "Make your way to zero-trust network security with Microsoft 365"
-description = "Recently we have discussed the subject of zero-trust network security, but at the Security and Compliance Virtual conference that took place recently, experts talked a lot about zero-trust architecture in Microsoft 365 environment, and we’ve decided to share some of the most interesting insights from the conference."
+description = "Previously, we discussed the subject of zero-trust network security, but at the Security and Compliance Virtual Conference that took place recently, experts talked a lot about zero-trust architecture in the Microsoft 365 environment, and we’ve decided to share some of the most interesting insights from the conference."
 date = 2019-05-29
 
 [taxonomies]
@@ -10,48 +10,48 @@ tags = ["cloud security", "microsoft 365"]
 +++
 
 The notion of zero-trust was introduced back in 2010 by John Kindervag,
-but recently it has gained extra notoriety and interest in security
-industry primarily due to the volume of data breaches, we've seen across
+but recently it has gained extra notoriety and interest in the security
+industry, primarily due to the volume of data breaches we've seen across
 organizations. These breaches proved that traditional network perimeter
-architectures have serious flaws, and just don't work in today's world
+architectures have serious flaws and just don't work in today's world
 of progressive workforce mobility, a movement to cloud services, and
 [BYOD]{.caps} model.
 
-The crux of zero-trust concept is about making sure every time a
-resource is accessed you can assess, how trustworthy that access or
+The crux of the zero-trust concept is about making sure that every time a
+resource is accessed, you can assess how trustworthy that access or
 request is.
 
-When we think about Zero Trust, it's more like Zero Trust in the
+When we think about zero trust, it's more like zero trust in the
 network, where:
 
 -   *Every asset* you have is available *on the open internet* (because
     that's the way things are in real life).
 -   You *assume breach*, supposing that somebody's already in the
-    network and you have to set up policies, and controls to avoid data
+    network and you have to set up policies and controls to avoid data
     leakage.
 -   There's *no inherited trust*, and you must *always verify*.
 
 Organizations today are connected to a variety of complex ecosystems --
 they have broad on-premises infrastructure, they are leveraging cloud
-services, have vast array of partners with access to their network, they
+services, have a vast array of partners with access to their network; they
 may be using IoT devices to manage buildings and infrastructure,
-industrial control systems, have supply chains in terms of doing B2B
-types of transactions. Handling all that stuff requires a complex
+industrial control systems, and have supply chains in terms of doing B2B
+types of transactions. Handling all that requires a complex
 approach to integrated protection and governance of sensitive data
-across devices, apps and cloud services. This is what Microsoft has to
+across devices, apps, and cloud services. This is what Microsoft has to
 offer:
 
 ![](https://o365hq.com/images/345.png)
 
-Zero-trust concept here is built around identity and conditional access.
-Creating a policy, you may use various conditions, under which controls,
-managing access to data, are implemented. For example, your company will
-be able to define conditions, based on things like which users are
+The zero-trust concept here is built around identity and conditional access.
+Creating a policy, you may use various conditions under which controls and
+managing access to data are implemented. For example, your company will
+be able to define conditions based on things like which users are
 trying to sign in, with which application, which device they are using,
-and wherein the world are they trying to sign in from.
+and where in the world they are trying to sign in from.
 
-Let's see, how zero trust works from the position of admins, setting up
-policies, and the perspective of users doing their job. In the end,
+Let's see how zero trust works from the position of admins, setting up
+policies, and the perspective of users doing their job. At the end,
 we'll share some best practices.
 
 ### Admin's view
@@ -65,27 +65,27 @@ conditions are met, [AAD]{.caps} will fire the policy.
 
 Microsoft has recently added two cool features to these conditions. The
 first one is that now *conditional access policies may be assigned by
-roles*, so if you want, for example, your Exchange admin to be under a
-specific policy, that's much easier to do. The other new thing is that
-you'll have the full support for B2B, as you may grant access to
+roles*, so if you want, your Exchange admin to be under a
+specific policy, for example, that's much easier to do. The other new thing is that
+you'll have full support for B2B, as you may grant access to
 business partners under conditions you prefer.
 
 ![](https://o365hq.com/images/340.png)
 
-Every internal, and external application, whether it's Microsoft, and
+Every internal and external application, whether it's Microsoft, a
 third-party SaaS, or your on-premises applications (connected through
 the app proxy), may be under the management of the conditional access,
-creating consistent security model for all workloads.
+creating a consistent security model for all workloads.
 
 ![](https://o365hq.com/images/346.png)
 
-Below the setting of sign-in risk as a selector is shown --- one just
-has to pick the proper risk levels to fire that policy on.
+Below, the setting of sign-in risk as a selector is shown --- one just
+has to pick the proper risk levels to fire that policy.
 
 ![](https://o365hq.com/images/338.png)
 
 It's high time to look at the controls that are applied when the policy
-matches. In the first section of *Grant* controls, you pick extra stuff
+matches. In the first section of *Grant* controls, you pick extra things
 users will be required to do (like [MFA]{.caps}) or to have (like a
 complaint or [AAD]{.caps} joined device) to get access.
 
@@ -94,26 +94,26 @@ complaint or [AAD]{.caps} joined device) to get access.
 In this example, we'll select [MFA]{.caps}. One of the side benefits of
 [MFA]{.caps} is it gives you the step up into the second factor of
 authentication if something risky is detected, but it will also
-eliminate some prompts, if a situation looks safe enough. For example,
-if users are within an IP range that [AAD]{.caps} knows, and trusts
+eliminate some prompts if a situation looks safe enough. For example,
+if users are within an IP range that [AAD]{.caps} knows and trusts
 (like your own set of IPs), in a location that users are always logging
-in from (maybe their home), the same device all the time, [AAD]{.caps}
+in from (maybe their home), and the same device all the time, [AAD]{.caps}
 can actually start to reduce some second-factor obstacles, still
 preserving the same security level.
 
-Granting access is just a beginning, there's also the ability to
+Granting access is just a beginning. There's also the ability to
 instruct the system to do downstream things with *Session controls*.
-Selecting to *Use app enforced restrictions*, you let apps provide only
+Selecting *Use app enforced restrictions*, you let apps provide only
 limited capabilities under certain conditions. If [AAD]{.caps} detects
 something suspicious about the session, it will pass this additional
-information to the cloud app, which in its turn, will enable limited
-experience, without the ability to download, print or sync files.
+information to the cloud app, which in turn will enable a limited
+experience, without the ability to download, print, or sync files.
 
 Conditional access app control lets you invoke Microsoft Cloud App
-Security ([MCAS]{.caps}), to get some rich front signal, and auditing,
-while monitoring user's behavior within the app in question. Let's say
+Security ([MCAS]{.caps}) to get some rich front signal and auditing
+while monitoring user behavior within the app in question. Let's say
 you have a user who's at risk because of a sketchy login, and you may
-want to see, what that assumed attacker is doing, literally and
+want to see what that assumed attacker is doing: literally and
 laterally follow him/her. This gives you incredible power in terms of
 thinking about your security model and additional controls needed. While
 using this feature, you're verifying and controlling everything by
@@ -124,15 +124,15 @@ itself), which lets you inspect and export traffic logs.
 
 ### User experience
 
-From the user's perspective let's view device-based conditional access
-policy. Trying to sign in from an unmanaged untrusted personal device
-will result in the [MFA]{.caps} challenge, and ban to download, print or
-sync information (to control the data flow).
+From the user's perspective, let's view the device-based conditional access
+policy. Trying to sign in from an unmanaged, untrusted personal device
+will result in the [MFA]{.caps} challenge and ban downloading, printing, or
+syncing information (to control the data flow).
 
 The situation on a managed device will be frictionless with true app
 single sign-on ([SSO]{.caps}), and without the need for additional
-[MFA]{.caps} challenges. Thus, the user experience improves, and the
-security controls are maintained, because of the certificate-based
+[MFA]{.caps} challenges. Thus, the user experience improves and
+security controls are maintained because of the certificate-based
 nature of the environment, in which we do device-based conditional
 access.
 
@@ -145,7 +145,7 @@ applied automatically or by users creating the file in Office and
 third-party apps. Through this classification, you can apply encryption
 at the file level, and only the proper identity can unlock the
 information. Encrypted files can be stored in any location (OneDrive,
-Dropbox, [USB]{.caps} key, e-mail, etc.), but for the person or system
+Dropbox, [USB]{.caps} key, email, etc.), but for the person or system
 to get access to it, credentials should be entered to prove the
 identity.
 
@@ -154,29 +154,29 @@ identity.
 **Block legacy authentication**
 
 This recently added capability is intended to exclude legacy protocols
-that won't allow to carry out the [MFA]{.caps} challenge and monitor the
+that won't allow the carrying out of the [MFA]{.caps} challenge and monitoring the
 session. Turning on this policy is important, as the attackers are using
-tools relying on the protocols, like [POP]{.caps}, [IMAP]{.caps},
+tools relying on protocols like [POP]{.caps}, [IMAP]{.caps},
 [SMTP]{.caps}, etc. When you stop the use of these clients altogether,
 you eliminate all the vulnerabilities that come along with these
 protocols. Microsoft has found statistically that this policy stops 66%
 of the compromises in your work.
 
-Excited to try this out --- look for *Conditions*, then *Client apps*
-and choose *Other clients* not to let in any apps using legacy
+Excited to try this out? Look for *Conditions*, then *Client apps*
+and choose *Other clients* to not let in any apps using legacy
 authentication.
 
 ![](https://o365hq.com/images/341.png)
 
-This is how the denial to log in resulting from this policy will look
+This is what the denial to log in resulting from this policy will look
 like with Pegasus client.
 
 ![](https://o365hq.com/images/348.png)
 
 **Require [MFA]{.caps} for admins**
 
-Having an experience in the investigations of major breaches, Microsoft
-is creating a set of turnkey baseline policies, which you must simply
+Having experience in the investigations of major breaches, Microsoft
+is creating a set of turnkey baseline policies that you just simply
 turn on. Among these is configuring stronger credentials for admins.
 
 ![](https://o365hq.com/images/344.png)
@@ -184,13 +184,13 @@ turn on. Among these is configuring stronger credentials for admins.
 **Identity Secure Score**
 
 Extending a little bit farther in terms of guidance, best practices, and
-how to create a very secure environment in the Zero Trust mindset,
+how to create a very secure environment in the zero trust mindset,
 Identity Secure Score was introduced.
 
 Secure Score has been around for a while in Office 365, and then in
 Microsoft 365. Eventually, specific places were defined for different
-admin roles: there's an identity specific place for the identity admin,
-a network specific place for the network admin, the infrastructure
+admin roles: there's an identity-specific place for the identity admin,
+a network-specific place for the network admin, the infrastructure
 admin, and so forth. The Identity Secure Score is what identity folks
 can address to see what makes the biggest impact on improving the
 security posture, and then build a plan around it.
@@ -209,10 +209,10 @@ options under the *Status* drop-down.
 
 ### Conclusion
 
-Building zero-trust network is the right way to achieve security goals.
+Building a zero-trust network is the right way to achieve security goals.
 By putting conditional access restrictions in place, you extend the
-horizon of productivity, as employees work effectively, while the data
+horizon of productivity, as employees work effectively while the data
 remains protected from downloading to the local drive and from the
 attacks, as [MFA]{.caps} has 99.9% effectiveness in blocking
-identity-based attacks. Knowledge is power, start empowering your
+identity-based attacks. Knowledge is power; start empowering your
 company now!
