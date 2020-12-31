@@ -1,6 +1,6 @@
 +++
 title = "Literally every segment of Microsoft's business increased revenue this quarter."
-description = "Microsoft continues to rake in huge money from its enterprise-focused “intelligent cloud” offering, of which Azure is a major factor. Indeed, server products and cloud services led to a 24 percent increase in Microsoft&#8217;s intelligent cloud segment; total revenues for intelligent cloud were $8.6 billion. Azure revenue in particular increased 76 percent. "
+description = "Microsoft continues to rake in huge money from its enterprise-focused “intelligent cloud” offering, of which Azure is a major factor. Indeed, server products and cloud services led to a 24 percent increase in Microsoft's intelligent cloud segment; total revenues for intelligent cloud were $8.6 billion. Azure revenue in particular increased 76 percent. "
 date = 2018-10-25
 
 [taxonomies]
@@ -9,10 +9,10 @@ types = ["Consulting"]
 tags = ["microsoft azure"]
 +++
 
-Every quarter Microsoft delivers hundreds of products, either as new
+Every quarter, Microsoft delivers hundreds of products, either as new
 releases, services, or enhancements to current products and services.
 These releases are a result of significant research and development
-investments, made over multiple years, designed to help customers be
+investments made over multiple years, designed to help customers be
 more productive and secure and to deliver differentiated value across
 the cloud and the edge.
 
