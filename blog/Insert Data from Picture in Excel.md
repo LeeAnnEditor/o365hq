@@ -19,4 +19,4 @@ Excel Android app soon.
 
 ![](https://o365hq.com/images/328.png)
 
-Saying goodbye to manual data entry!
+Say goodbye to manual data entry!
