@@ -1,6 +1,6 @@
 +++
-title = "Microsoft Teams step-by-step. How to organize and attend to Microsoft Teams calls and meetings"
-description = "Meetings in Teams include audio, video, and sharing. And because they&#8217;re online, you&#8217;ll always have meeting space and never need a room or projector. Teams meetings are a great way to come together with your colleagues and clients both inside and outside of your organization. You don’t need to be a member of an organization – or even have a Teams account! – to join a Teams meeting."
+title = "Microsoft Teams step-by-step. How to organize and attend Microsoft Teams calls and meetings"
+description = "Meetings in Teams include audio, video, and sharing. And because they're online, you'll always have meeting space and never need a room or projector. Teams meetings are a great way to come together with your colleagues and clients both inside and outside of your organization. You don’t need to be a member of an organization – or even have a Teams account! – to join a Teams meeting."
 date = 2019-04-05
 
 [taxonomies]
@@ -19,13 +19,9 @@ internet connection and do not support an offline mode.
 
 ### Get Microsoft Teams client
 
-Microsoft Teams has clients available for desktop (Windows and Mac),
-web, and mobile (Android and iOS). These clients all require an active
-internet connection and do not support an offline mode.
-
 The Microsoft Teams desktop client is a standalone application and
 currently not part of Office 365 ProPlus. Teams are available for both
-Windows (7+), both 32-bit and 64-bit versions, and macOS (10.10+). On
+Windows (7+), both 32-bit and 64-bit versions, and MacOS (10.10+). On
 Windows, Teams requires .NET Framework 4.5 or later; the Teams installer
 will offer to install it for you if you don't have it.
 
@@ -34,16 +30,16 @@ directly from <https://teams.microsoft.com/downloads> if they have the
 appropriate local permissions.
 
 **Mac users** can install Teams by using a PKG installation
-file for macOS computers. Administrative access is required to install
-the Mac client. The macOS client is installed to the /Applications
+file for MacOS computers. Administrative access is required to install
+the Mac client. The MacOS client is installed to the /Applications
 folder.
 
 Install Teams by using the PKG file
 
 1\. From the Teams [download
-page](https://teams.microsoft.com/downloads) , under Mac, click
+page](https://teams.microsoft.com/downloads), under Mac, click
 Download.\
-2. Double click the PKG file.\
+2. Double-click the PKG file.\
 3. Follow the installation wizard to complete the installation.\
 4. Teams will be installed to /Applications folder. It is a machine-wide
 installation.
@@ -54,13 +50,13 @@ supports Calling and Meetings by using webRTC, so there is no plug-in or
 download required to run Teams in a web browser. The browser must be
 configured to allow third-party cookies.
 
-### Set Up a meeting
+### Set up a meeting
 
-In Teams, there are two ways to initiate real-time communication:
+In Teams, there are two ways to initiate real-time communication.
 
-A user can call another user directly.
+1. A user can call another user directly.
 
-A user can create a meeting (ad hoc or scheduled) For calls, the media
+2. A user can create a meeting (ad hoc or scheduled). For calls, the media
 (audio, video, or desktop or application sharing) travel as directly as
 possible. If, for example, there's no firewall between two users (for
 example, both sit inside the same network), media traffic travels
@@ -76,7 +72,7 @@ video (1:45 minutes)
 To schedule a meeting, click *Schedule a meeting* in a chat or in
 *Meetings* on the left side of the app.
 
-Go to the *Select a channel to meet* in section:
+Go to the *Select a channel to meet* section.
 
 -   If you want to have your meeting in a channel, select the
     appropriate channel.
@@ -90,11 +86,11 @@ or join meetings in either app.
 
 ![](https://o365hq.com/images/310.png)
 
-Add your invitees to the *To* field you can even invite entire contact
+Add your invitees to the *To* field; you can even invite entire contact
 groups (formerly known as distribution lists). Add your meeting subject,
 location, start time and end time. Then click *Send*.
 
-When you schedule a meeting in the desktop or web app, you use the
+When you schedule a meeting in the desktop or web app, use the
 *Invite people* box to search for and invite people. Then, you can use
 the scheduling assistant to see times when everyone is free.
 
@@ -114,7 +110,7 @@ see the meeting notice in your chat list or a channel conversation.
 
 You can join from that meeting notice or from the *Meetings* calendar.
 
-On the desktop are several ways to join a meeting in Teams:
+On the desktop are several ways to join a meeting in Teams.
 
 **From your calendar**
 
@@ -162,8 +158,8 @@ entire screen.
 
 #### Share PowerPoint slides in a meeting
 
-If you choose to share a PowerPoint file in a meeting, rather than your
-desktop, meeting participants will get some special capabilities:
+If you choose to share a PowerPoint file in a meeting rather than your
+desktop, meeting participants will get some special capabilities.
 
 1.  They'll be able to move around to different slides without
     interrupting the main presentation.
@@ -182,25 +178,25 @@ present, or demonstrate something, you can give control to that person.
 You will both be in control of the sharing, and you can take back
 control anytime.
 
-1\. On the sharing toolbar, select *Give control*.\
+1. On the sharing toolbar, select *Give control*.\
 2. Select the name of the person you want to give control to.
 
-Teams send a notification to that person to let them know you're sharing
+Teams sends a notification to that person to let them know you're sharing
 control. While you're sharing control, they can make selections, edits,
 and other modifications to the shared screen.
 
-3\. To take control back, select *Take back control*.
+3. To take control back, select *Take back control*.
 
 **Take control**
 
 To take control while another person is sharing, select *Request
-control*. Then, the person sharing will approve or deny your request.\
+control*. The person sharing will approve or deny your request.\
 While you have control, you can make selections, edits, and other
 modifications to the shared screen.
 
 When you're done, select *Release control* to stop sharing control.
 
-h4.Blur your background in a Teams meeting
+4. Blur your background in a Teams meeting
 
 https://8gportalvhdsf9v440s15hrt.blob.core.windows.net/ignite2018/img/Teams%20-%20Blue%20your%20background.gif
 
@@ -208,8 +204,8 @@ Not happy with your backdrop in a video meeting? Try background blur.
 You'll appear nice and clear while everything behind you is subtly
 concealed.
 
-To start a meeting with background blur, move the blur slider---the one
-to the right of the video slider---to the right on the *Choose your
+To start a meeting with background blur, move the blur slider -- the one
+to the right of the video slider -- to the right on the *Choose your
 audio and video settings* screen when you're joining the meeting.
 FYI, this only works for scheduled meetings.
 
@@ -245,7 +241,7 @@ fullscreen.
 
 ### Conclusion
 
-Microsoft Teams is the ultimate messaging app for your organization---a
+Microsoft Teams is the ultimate messaging app for your organization -- a
 workspace for real-time collaboration and communication, meetings, file
 and app sharing, and even the occasional emoji! All in one place, all in
 the open, all accessible to everyone.
