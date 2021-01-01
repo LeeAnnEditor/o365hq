@@ -9,7 +9,7 @@ types = ["Implementation"]
 tags = ["office 365"]
 +++
 
-Article work in progess
+*Article work in progess*
 
 ### Office 365 basics
 
