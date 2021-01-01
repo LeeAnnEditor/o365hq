@@ -1,6 +1,6 @@
 +++
 title = "New Windows 10 update"
-description = "latest major release – the Windows 10 April 2018 Update – Microsoft wants to give you back some of your greatest currency, your time. Their hope is that you’ll have more time to do what matters most to you –  create, play, work or simply do what you love."
+description = "Latest major release – the Windows 10 April 2018 Update – Microsoft wants to give you back some of your greatest currency, your time. Their hope is that you’ll have more time to do what matters most to you –  create, play, work, or simply do what you love."
 date = 2018-05-07
 
 [taxonomies]
@@ -15,11 +15,11 @@ What is new?
 The service operates on the basis of the "History of tabs" in browsers
 and stores information about previously opened sites and files. It also
 displays data about tabs from the Edge browser and files from Office
-365, with which the user works on Android and iOS devices.
+365, on both Android and iOS devices.
 
 **Focus Assist**\
-The function will help keep the concentration, disabling notifications
-from social networks, email clients and other services at the right
+This function will help keep concentration, disabling notifications
+from social networks, email clients, and other services at the right
 time. Upon completion of the work, the user will receive all emails and
 notifications. To receive important calls or messages, the user is
 encouraged to use the list of exceptions.
@@ -32,11 +32,11 @@ syllables.
 
 **Voice control**\
 The Dictation function will make it possible to create notes or a
-document using only the voice. Control devices for the "smart home" can
-be through the assistant Cortana.
+document using only the voice. Control devices for the "smart home" are 
+through the assistant Cortana.
 
 **Delivery Optimization**\
-The service allows you to download the update to one device, and then
+The service allows you to download the update to one device and then
 transfer it to the rest using a local network. This will reduce the
 amount of traffic consumed by 90%. Delivery Optimization statistics will
 be available in Windows Analytics. In particular, it will show how many
@@ -57,14 +57,14 @@ without errors, it is automatically launched for the next group of
 employees.
 
 **Intune**\
-The tool allows you to deploy and manage software on the service
+This tool allows you to deploy and manage software on the service
 terminals. With the help of the new Microsoft Kiosk browser, created on
 the basis of Microsoft Edge, one or several terminals can safely and
 without crashing view web pages in full screen mode.
 
 -   Windows AutoPilot \*\
     Now the function includes a page with the status of the
-    installation. It makes sure that the necessary agreements, settings
+    installation. It makes sure that the necessary agreements, settings,
     and applications appear on the device during the initial
     installation before the end user is at the screen and starts
     interacting with the device.
