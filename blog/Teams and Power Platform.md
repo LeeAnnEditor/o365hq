@@ -1,6 +1,6 @@
 +++
 title = "Teams and Power Platform"
-description = "Microsoft Teams has built in features, enabling employees to customize their own workspaces. Over the past two years, this customized experience has grown dramatically. Organizations can now build their own applications and integrate them seamlessly into their teams within Microsoft Teams platform."
+description = "Microsoft Teams has built-in features enabling employees to customize their own workspaces. Over the past two years, this customized experience has grown dramatically. Organizations can now build their own applications and integrate them seamlessly into their teams within the Microsoft Teams platform."
 date = 2020-02-27
 
 [taxonomies]
@@ -12,10 +12,10 @@ tags = ["microsoft teams", "powerapps"]
 ![](https://o365hq.com/images/691.png)
 
 It is possible to create your own app for processing returns using the
-Microsoft Power Platform, while leveraging PowerApps, Power Automate,
+Microsoft Power Platform while leveraging PowerApps, Power Automate,
 and Power BI. To improve efficiencies in inspecting and processing
-returns, you can use a low code mobile-friendly app built with Microsoft
-PowerApps, to keep pace with customer's demands.
+returns, you can use a low code, mobile-friendly app built with Microsoft
+PowerApps to keep pace with customer demands.
 
 ![](https://o365hq.com/images/694.png)
 
@@ -23,7 +23,7 @@ On the audit screen, you simply need to upload a picture of the returned
 product to begin processing the return. With AI Builder, it is easy to
 leverage AI machine learning by taking this picture and letting the app
 determine what the product is. AI machine learning also gives you the
-price. This is a huge time saver! Additionally, you can also provide and
+price. This is a huge time-saver! Additionally, you can also provide and
 take notes or feedback on the condition of the returned product. You can
 now use the time saved for even more returns and build relationships
 with customers through meaningful conversations.
