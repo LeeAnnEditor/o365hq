@@ -14,10 +14,10 @@ wherever they are. Windows Virtual Desktop provides the Windows 10
 desktop experience that employees are familiar with across a variety of
 devices or web browsers.
 
-Key opportunities is:
+Key opportunities include:
 
 -   Set up a multi-session Windows 10 deployment that delivers a full
-    Windows 10 with scalability
+    Windows 10 experience with scalability
 -   Virtualize Office 365 ProPlus and optimize it to run in multi-user
     virtual scenarios
 -   Provide Windows 7 virtual desktops with free Extended Security
