@@ -1,6 +1,6 @@
 +++
 title = "SharePoint Sites and Portals"
-description = "Office 365 Communication sites allow companies to share their news with everyone by supporting broadcasting a message, telling a story, or disseminating content to a corporate audience. By means of SharePoint hub sites companies can consolidate, prioritize, and share information across multiple sites."
+description = "Office 365 Communication sites allow companies to share their news with everyone by supporting broadcasting a message, telling a story, or disseminating content to a corporate audience. By means of SharePoint hub sites, companies can consolidate, prioritize, and share information across multiple sites."
 date = 2019-06-26
 
 [taxonomies]
@@ -16,7 +16,7 @@ tags = ["sharepoint online"]
 SharePoint hub sites combine sites together and create a total and
 consistent description of a project, department, or area. All the sites
 share common branding, theming, and navigation. You can add numerous
-various features, such as News, Events, PowerPoint, and third-party
+features, such as News, Events, PowerPoint, and third-party
 tools. Modular web parts make customizing the hub site easy. Adding web
 parts and customizing them allows organizations to plan the site to suit
 their needs and set it up as their own.
@@ -24,14 +24,14 @@ their needs and set it up as their own.
 Employees receive the most recent news right in their SharePoint in
 Office 365 or SharePoint mobile app. The news from "organizational news
 source" sites will appear right at the top of one's view. The unique
-'hub provides extra capacities, such as attaching the newest items, an
-updated handy layout, and ongoing support. It is not necessary to create
+hub provides extra capacities, such as attaching the newest items, an
+updated layout, and ongoing support. It is not necessary to create
 multiple audience-specific sites for each person in a company if you
 configure what can be visible to specific groups.
 
 ![](https://o365hq.com/images/417.png)
 
-Audience targeting allows a company to determine those who best to reach
+Audience targeting allows a company to determine those best to reach
 with content experiences. It is easy to deliver a more personalized news
 experience by setting what is recommended for the current user.
 
@@ -47,17 +47,17 @@ Operations.
 
 ![](https://o365hq.com/images/416.png)
 
-### Communications Sites
+### Communication sites
 
 Communication sites are compelling, dynamic sites that communicate
 messages to a broad audience. With common navigation and a consistent
-look and feel, associated sites provide visitors with easy to learn
+look and feel, associated sites provide visitors with an easy-to-learn
 experience. For example, they can quickly browse from site to site
 without needing to familiarize themselves with different site layouts.
 
-With the Stream site, visitors can experience a complete video viewing,
+With the Stream site, visitors can experience a complete video viewing
 without leaving SharePoint. Microsoft Stream videos are easily embedded
-and play right in the web part which provides a rich playback experience
+and play right in the web part, which provides a rich playback experience
 of a single video or an entire channel, including the capability to
 attach closed captions. It is easy to look for a certain keyword in the
 transcript and then skip directly to that part of the video.
@@ -66,15 +66,15 @@ transcript and then skip directly to that part of the video.
 
 ![](https://o365hq.com/images/420.png)
 
-The Yammer allows site visitors to engage, ask questions, get opinions
+Yammer allows site visitors to engage, ask questions, get opinions,
 and publish links to content. The SharePoint mobile app displays hub
 sites, communication sites, their pages, web parts, news, and content
 with smooth navigation between associated sites.
 
-### Create Organization News
+### Create organization news
 
-Office 365 allows access to many different sites, Teams, Hubs,
-Communications, and news sources and enables to create and publish items
+Office 365 allows access to many different sites, Teams, hubs,
+communications, and news sources, and enables creating and publishing items
 right from a company news site. When building a News article and sending
 an email message to the team, you can include images in the banner and
 in the body of the article, and even Stream videos. And finally, it is
@@ -96,7 +96,7 @@ SharePoint communication sites are the ideal solution to broadcast a
 message, tell a story, share content for viewing, or highlight
 capabilities or people. SharePoint hub sites take the challenge out of
 finding just the information visitors need. Hub sites connect
-Communication sites and modern team sites for consistent navigation and
+communication sites and modern team sites for consistent navigation and
 themes, shared resources, increased team visibility, and scoped search.
 
 ![](https://o365hq.com/images/418.png)
