@@ -22,4 +22,4 @@ features if they have Phone System and a Microsoft Calling Plan.
 Customers will be able to acquire 25 0\$ Voice Apps SKUs plus 1
 0\$ Voice App SKU for every 10 Phone System licenses they own.
 Phone System licenses can be acquired as an add-on or as part of the E5
-SKU.
+SKU. 
