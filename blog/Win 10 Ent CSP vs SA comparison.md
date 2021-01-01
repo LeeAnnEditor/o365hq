@@ -1,6 +1,6 @@
 +++
 title = "Win 10 Ent CSP vs SA comparison"
-description = "Here’s the comparison table comparing different licensing channels, primarily month-to-month subscriptions and volume licensing"
+description = "Here’s the comparison table comparing different licensing channels, primarily month-to-month subscriptions and volume licensing."
 date = 2019-05-03
 
 [taxonomies]
