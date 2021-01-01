@@ -11,7 +11,7 @@ tags = ["microsoft and apple"]
 
 Microsoft and Apple have long been considered fierce rivals in a wide
 array of businesses, with the Mac vs PC campaign without a doubt marking
-the apogee of the long-distance dispute.
+the apex of the long-standing dispute.
 
 The eternal rivalry between Microsoft and Apple may actually be over,
 said Microsoft's chief marketing officer Chris Capossela.\
@@ -20,5 +20,5 @@ the past," said Capossela. "We need to bring our products on the
 platforms that our customers are using. So Office on the iPad or iPhone,
 Minecraft on every platform, that's just a natural thing for us to do."*
 
-See full interview on the link --
+See the full interview on the link --
 https://cheddar.com/videos/marketing-microsoft
