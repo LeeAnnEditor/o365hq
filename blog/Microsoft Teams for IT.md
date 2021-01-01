@@ -9,8 +9,8 @@ types = ["Training"]
 tags = ["microsoft teams"]
 +++
 
-Channels are dedicated sections within a team, open to all team members,
-but sometimes, team members need a space for more focused collaboration.
+Channels are dedicated sections within a team, open to all team members.
+But sometimes, team members need a space for more focused collaboration.
 In such cases, you can add Private channels to the team for
 communication, without having to create a separate team.
 
@@ -20,18 +20,18 @@ Microsoft Teams conversations are threaded, allowing for in-context
 replies to specific conversations and clear differentiation between
 topics. Conversations, files, and meetings are all completely
 integrated. Immersive Reader offers flexible settings for visual text
-presentation and controls for text to speech that adapt to the unique
-needs and styles of each user so that the visual presentation of the
+presentation and controls for text-to-speech that adapt to the unique
+needs and styles of each user so the visual presentation of the
 information is not a barrier to effective collaboration.
 
 ![](https://o365hq.com/images/705.png)
 
-Visual settings include color and typography to help with reading plus
+Visual settings include color and typography to help with reading, plus
 visual cues to accommodate comprehension needs. Text-to-speech settings
 allow the Immersive Reader voice to adapt to the user when it is used to
 collaborate in Teams. There are several options for navigating Teams. It
-is possible to use the left navigation, or the command box which
-integrates running commands with search. From here you can look for
+is possible to use the left navigation, or the command box, which
+integrates running commands with search. From there you can look for
 information and easily insert a specific result into a channel
 conversation. It is simple to act right from the box with *slash
 commands*, which are shortcuts that allow you to quickly perform tasks
@@ -41,14 +41,14 @@ or navigate Teams.
 
 Team members can seamlessly go from a conversation into a meeting,
 interacting with colleagues and clients directly in real time from
-inside the channel. The meeting can include video and screen-sharing to
+inside the channel. The meeting can include video and screen sharing to
 increase engagement and productivity. Meeting attendees can also enable
 *Blur my background* before and during the meeting, helping others on
-the video call to stay focused on them, while protecting any information
+the video call to stay focused on them while protecting any information
 that might be visible in the background.
 
-It is possible to schedule a meeting, with a user experience like
-Outlook, and enter all necessary information, including a title and
+It is possible to schedule a meeting with a user experience like
+Outlook and enter all necessary information, including a title and
 details. Meetings in Microsoft Teams are integrated with Exchange, so
 the Scheduling Assistant feature suggests times optimal for all
 attendees. The meeting organizer will retrieve a suggested time based on
@@ -63,7 +63,7 @@ scale. It enables call control and PBX capabilities in Office
 Calling Plan.
 
 Microsoft Teams makes it easy to conduct business with people wherever
-they are located. It is to add guests to teams and make calls directly
+they are located. It is easy to add guests to teams and make calls directly
 to people inside and outside your organization. Calls includes a dialer,
 contact list, history, and voicemail--everything you need to make calls.
 
@@ -96,11 +96,11 @@ meet the needs of the entire organization and specific groups within
 your company. For Teams deployment, you can leverage Advisor for Teams
 to streamline workload rollouts. *Advisor for Teams* will identify the
 most common configurations that may need to be updated or modified for a
-successful roll out.
+successful rollout.
 
-Teams Global policies allow you to provide different levels of controls
+Teams global policies allow you to provide different levels of controls
 to different groups. In this case, the system integration team that
-works with healthcare projects has its own messaging policy with very
+works with healthcare projects has its own messaging policy, with very
 tight controls on editing to comply with some contracts. This team now
 has a request to turn off GIFs, memes, and stickers for their
 users due to the nature of the work and contract needs. Policies allow
