@@ -1,6 +1,6 @@
 +++
 title = "Microsoft Defender Advanced Threat Protection"
-description = "Microsoft Defender ATP is a security that keeps endpoints safe from cyber threats, identifies sophisticated attacks and automates security incidents. It is built into Windows 10, not bolted on, so there is nothing to deploy. "
+description = "Microsoft Defender ATP is a security that keeps endpoints safe from cyber threats, identifies sophisticated attacks, and automates security incidents. It is built into Windows 10, not bolted on, so there is nothing to deploy. "
 date = 2020-06-03
 
 [taxonomies]
@@ -18,19 +18,19 @@ service. There's no agent to install/run on the machines.
 ![](https://o365hq.com/images/748.png)
 
 Besides Windows, MDATP can onboard and monitor non-Windows
-endpoints, including Linux, Mac OS, iOS and Android. The SecOps team can
+endpoints, including Linux, Mac OS, iOS, and Android. The SecOps team can
 also choose the deployment method that's convenient for the
-organization, such as System Center Config Manager, MDM/Intune
+organization, such as System Center Config Manager, MDM/Intune,
 or Group Policy.
 
 The MDATP Dashboard is an operational view of the
-organization's endpoints and users which gives the SecOps user an
-aggregated view of the latest alerts, their severity and when they were
-observed. It also provides a listing of the machines most at risk with
+organization's endpoints and users that gives the SecOps user an
+aggregated view of the latest alerts, their severity, and when they were
+observed. It also provides a listing of the machines most at risk, with
 several alerts related to each machine and indicates users at risk,
 providing insight into the activities, actions, and relationships to the
 machine. The security operations dashboard in MDATP provides a
-single pane of glass and centralized management.
+single pane and centralized management.
 
 ![](https://o365hq.com/images/749.png)
 
@@ -55,46 +55,46 @@ Attackers need not inject a physical file in a victim's machine to take
 control -- attacks can happen through scripts. Detection of such scripts
 is difficult because administrators also often run scripts remotely to
 carry out various administrative activities. By default, Microsoft
-Defender ATP will wait for the SecOps approval before
+Defender ATP will wait for SecOp's approval before
 proceeding, but they could also configure it under the machine group
 settings to skip this step and apply remediation automatically.
 
 The machine view page provides SecOps with an overview of
-security-relevant details such as logged on users, high-level machine
-status and risk profile.
+security-relevant details, such as logged-on users, high-level machine
+status, and risk profile.
 
 Here they can also see that the Microsoft Defender Security Center
-supports multiple endpoint types Including Windows Server 2019, Linux
-Machines, as well as Apple clients running macOS.
+supports multiple endpoint types, including Windows Server 2019, Linux
+Machines, as well as Apple clients running MacOS.
 
 ![](https://o365hq.com/images/750.png)
 
 Additionally, they can view a rich and detailed timeline that shows all
-events observed from this machine, back as far as 6 months.
-Additionally, they can interactively hunt, search and explore historical
+events observed from this machine, as far back as six months.
+Additionally, they can interactively hunt, search, and explore historical
 data across all the endpoints. SecOps can reduce the verbosity by using
 search or filter functionality.
 
 Drilling in, the detailed view of the alert shows the SecOps team what
 services were involved in the alert, as well as what files are
 affected.\
-Here SecOps can see that the malware in question was introduced via an
-email, and with the deep integration with Office ATP we can
+Here, SecOps can see that the malware in question was introduced via an
+email, and with the deep integration with Office ATP, we can
 also get more details on who else in the organization received this
 mail, including *Delivery Actions* (Delivered, Delivered to Junk, or
-Blocked) as well as the *Delivery Location* (Inbox, Junk, or
+Blocked), as well as the *Delivery Location* (Inbox, Junk, or
 Quarantine).
 
 ![](https://o365hq.com/images/751.png)
 
 Enterprises often deal with cyber threats. The threat analytics
 dashboard offers several overviews about the threats described in the
-reports. It also contains worldwide impact and detection information,
+reports. It also contains worldwide impact and detection information, plus
 mitigation recommendations.\
-Diving into security recommendations, The SecOps user can see that
+Diving into security recommendations, the SecOps user can see that
 MDATP is providing a list of actionable recommendations to
 improve the vulnerability posture of the organization, both in relation
-to software vulnerabilities as well as endpoint misconfigurations.\
+to software vulnerabilities and endpoint misconfigurations.\
 This page contains a dynamic prioritized list of security
 recommendations for the entire organization across all operating systems
 and software.
@@ -106,7 +106,7 @@ improvement impact that applying them would generate, to help security
 admins focus on the vulnerabilities that are currently posing the
 highest exposure risk.
 
-There are two types of mitigating actions:
+There are two types of mitigating actions.
 
 1.  Creating a remediation request -- this is the primary mitigation
     option for a security recommendation.
@@ -116,8 +116,8 @@ There are two types of mitigating actions:
 
 ![](https://o365hq.com/images/754.png)
 
-The area of Threat & Vulnerability Management (TVM) allows to
-view, monitor and control the progress/status of remediation requests
+The area of Threat & Vulnerability Management (TVM) allows the
+viewing, monitoring, and controlling of the progress/status of remediation requests
 and exceptions that were created in the company.
 
 The remediation progress is a real-time reflection of the endpoint patch
@@ -125,49 +125,49 @@ state that is continuously assessed by the MDATP sensor. The
 SecOps user can view activities that are currently active/in progress,
 as well as expired and completed activities. The Software Inventory area
 of Threat & Vulnerability Management (TVM) provides visibility
-into all the 1st and 3rd party software installed across all devices in
+into all the first- and third-party software installed across all devices in
 the company.
 
 Also, the SecOps user can drill down into any of the software products
-listed in the software inventory for a detailed full overview of this
+listed in the software inventory for a full, detailed overview of this
 software and its related TVM data -- security recommendations,
 related vulnerabilities, version distribution, missing security updates
 (KBs), and more.
 
 This page provides all available data related to the vulnerabilities
-that software is introducing into the company, their exposure impact and
+that software is introducing into the company, their exposure impact, and
 related security recommendations.
 
 The machine page in MDATP has been enriched with TVM
 data, providing full vulnerability context for the machine entity --
-security recommendations, software vulnerabilities, software inventory
+security recommendations, software vulnerabilities, software inventory,
 and overall exposure level.
 
 ![](https://o365hq.com/images/755.png)
 
-This enrichment serves both the SecOps, as well as SecOps, who can now
+This enrichment serves the SecOps, who can now
 easily see any gaps in a machine's defenses while investigating an alert
-and gain insights into possible weaknesses that were exploited by an
+and gaining insights into possible weaknesses that were exploited by an
 attacker.
 
 The *Weaknesses* page is essentially a knowledge base listing all the
 vulnerabilities (CVEs) that are known to TVM -- both
-CVEs that apply to your organization at this time, as well as
-those that aren't. The SecOps team is interested to understand how
+CVEs that apply to your organization at this time, and
+those that aren't. The SecOps team is interested in understanding how
 exposed the organization is to a specific CVE -- so this is the
 place to review it.
 
 For each vulnerability, the SecOps user can view the severity using the
 *Common Vulnerability Scoring System (CVSS)* rating. This
-includes the *Vulnerability description* for the CVE. As well
+includes the *Vulnerability description* for the CVE, as well
 as its prevalence within the organization, any related software, or a
-corresponding breach. The SecOps user can also review the Vulnerability
-details which include detailed information on severity, age, and any
+corresponding breach. The SecOps user can also review the vulnerability
+details, which include detailed information on severity, age, and any
 known related software. The SecOps team has access to detailed *Threat
-insights*, which includes Information relating to the threat landscape
-for this vulnerability, such as public exploits, exploit kits.
+insights*, which includes information relating to the threat landscape
+for this vulnerability, such as public exploits and exploit kits.
 
-Also, with endpoint management -- you have detailed data as an
+Also, with endpoint management, you have detailed data as an
 exportable list on any *Exposed machines* exposed to this vulnerability
 from within the organization.
 
@@ -180,7 +180,7 @@ threat vulnerabilities. They are then able to run this query to see what
 machines in the environment need remediation.
 
 The Alert window allows SecOps to see how this vulnerability in software
-has allowed for some malicious activity. Under actions, there is an
+has allowed for some malicious activity. Under Actions, there is an
 option to consult a *Microsoft Threat Expert*. If they choose to submit
 a request, a Microsoft expert would review the alert and give detailed
 recommended actions.
@@ -188,18 +188,18 @@ recommended actions.
 All Threat & Vulnerability Management (TVM) pages can be viewed
 in the context of specific machine groups -- this helps to understand
 your vulnerabilities and exposure for different parts of the company.
-The machine group filter remains persistent when moving across and drill
+The machine group filter remains persistent when moving across and drilling
 downing through different TVM pages.
 
 The live response is created to improve analysis by authorizing the
-SecOps user to gather forensic data fast, send suspicious entities for
-thorough check and hunt for new threats. It provides instant access to a
-machine and allows to do in-depth investigative work and take immediate
-response actions to promptly contain identified threats -- real-time.
+SecOps user to gather forensic data fast, send suspicious entities for a
+thorough check, and hunt for new threats. It provides instant access to a
+machine and allows in-depth investigative work and taking immediate
+response actions to promptly contain identified threats -- in real time.
 
 ![](https://o365hq.com/images/758.png)
 
-Usually enterprise SecOp teams often rely on dependable reporting
+Usually, enterprise SecOps teams rely on dependable reporting
 visualizations to make crucial security decisions.\
 Power BI is a business analytics service that delivers insights to
 enable fast, informed decisions. Here in the PowerBI home page, there is
@@ -209,17 +209,17 @@ where the data is easily accessible.
 
 The MDATP dashboard helps SecOps check reports being shown. The
 PowerBI Report is leveraging the MDATP Advanced Hunting
-API, they can take a closer look at the report by clicking the
+API; they can take a closer look at the report by clicking the
 *Events Report*. The report can be shared, exported, and even subscribed
 to as a feed, so the SecOps team can get this report directly into their
-inbox as part of the daily routine.
+inbox as part of their daily routine.
 
 ![](https://o365hq.com/images/757.png)
 
 The Machine actions allows the SecOps user to see what actions, both
-manually initiated as well as automatically initiated have been
+manually initiated and automatically initiated, have been
 performed within the environment. It has a breakdown of these actions
-per machine so they can see which machines are most 'active'.
+per machine so they can see which machines are most active.
 
 Microsoft Defender Advanced Threat Protection is a platform designed to
 help enterprise networks prevent, identify, explore, and respond to
