@@ -10,28 +10,28 @@ tags = ["office 365", "office 365 business apps"]
 +++
 
 If you are a sales representative and you spend most of your day on the
-sales floor assisting customers *Sales Buddy Solution* is a good choice
-for you. It is a mobile-friendly app, built with *Microsoft PowerApps*,
+sales floor assisting customers, *Sales Buddy Solution* is a good choice
+for you. It is a mobile-friendly app built with *Microsoft PowerApps*,
 used to manage both your company products and customers, as needed.
 
 Using the Sales Buddy app, you have a few different ways you can search
-for this product -- by category, by keyword, or by the barcode.
+for a product -- by category, by keyword, or by the barcode.
 
 Once you select a product within the app, you can view all the
-information about the product, including *SKU* and *Barcode*
-and adds it to the Saved Products list. It is easy to see when the next
+information about the product, including *SKU* and *Barcode*,
+and add it to the Saved Products list. It is easy to see when the next
 shipment will arrive, and if the stock is low.
 
 ![](https://o365hq.com/images/514.png)
 
 Sales Buddy gives you the ability to add new customers into Dynamics 365
-when needed. It is simple to add them to your company\`s mailing list,
+when needed. It is simple to add them to your company's mailing list,
 opting to receive targeted email campaigns, while also creating new
 opportunities within Dynamics 365 for you and your team to follow up on.
 
 Just like products, it is possible to search for existing customers in a
 few different ways -- by *Name*, *Email*, *Company*, or *Phone number*.\
-And just like products, customer information from the backend is
+And just like products, customer information from the back end is
 integrated into the app, providing you with an optimized experience,
 enabling you to do your job while leveraging the data and systems you
 already have.
@@ -39,7 +39,7 @@ already have.
 You can review the product selection together with a customer and add
 additional recipients, if needed.
 
-To ensure everyone in your team follows up on a new opportunity, the
+To ensure everyone on your team follows up on a new opportunity, the
 CRM system is updated accordingly. The Sales Buddy app will
 create *new opportunities* within the customer record, knowing what the
 customer might be interested in buying.
@@ -50,7 +50,7 @@ Once you complete the email details, you can copy yourself on the email
 and send it to the customer.
 
 The automatically generated email message includes all the product
-details seen within the app, and includes a generated signature, so the
+details seen within the app, and includes a generated signature so the
 customer knows who they are working with.
 
 The Sales Buddy app has proven to be the best way to manage your product
@@ -74,7 +74,7 @@ connected to Dynamics 365 and Office 365.
 
 ![](https://o365hq.com/images/515.png)
 
-It is always possible to connect to other data sources, there are more
+It is always possible to connect to other data sources. There are more
 than 230 data connectors to choose from, including Adobe Sign, Facebook,
 GitHub, LinkedIn, and many more. This helps to break down silos,
 resulting in a highly productive app.
@@ -82,7 +82,7 @@ resulting in a highly productive app.
 All PowerApps controls have referenceable properties. For example, users
 can modify size, color, position, display text, and many other
 properties. Values for these properties can be fixed at design time.
-Alternatively, these values can be dynamic using Excel-like expressions.
+Alternatively, these values can be dynamic, using Excel-like expressions.
 
 The Sales Buddy app has an editable form control that allows users to
 update the Dynamics 365 records shown when searching for a customer's
