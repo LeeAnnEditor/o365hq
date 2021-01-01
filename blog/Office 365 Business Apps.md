@@ -1,6 +1,6 @@
 +++
 title = "Office 365 Business Apps"
-description = "Office 365 business apps allow you to control many of the background operations at your business. With Microsoft Invoicing you can take care of all your online payments. Microsoft Bookings will help you schedule appointments online. Outlook Customer Manager makes it easy to enhance customer relationships. And finally, MileIQ provides you with opportunity to claim reimbursement of business miles."
+description = "Office 365 business apps allow you to control many of the background operations at your business. With Microsoft Invoicing you can take care of all your online payments. Microsoft Bookings will help you schedule appointments online. Outlook Customer Manager makes it easy to enhance customer relationships. And finally, MileIQ provides you with the opportunity to claim reimbursement of business miles."
 date = 2019-09-10
 
 [taxonomies]
@@ -25,13 +25,13 @@ Manager makes it simple to share contact info with all the staff, so
 that everyone is on the same page and customers get a consistent
 experience regardless of who calls. If you want to share a new contact
 info with your coworkers and staff, just toggle the Boolean from "no" to
-"yes".
+"yes."
 
-Once the business contact has been added by clicking save, you can also
+Once the business contact has been added by clicking Save, you can also
 choose to add *notes* and *files* to the contact information for future
 reference.
 
-Megan selects a due date for this task, as well as a reminder date that
+In our example, Megan selects a due date for this task, as well as a reminder date that
 will notify Megan when this task is almost due.
 
 Once the contact card and task have been created, you can choose to
@@ -55,7 +55,7 @@ the companies you work with and the deals you have made.
 ### Microsoft Invoicing
 
 With *Microsoft Invoicing* you can easily create professional-looking
-estimates and invoices. With Invoicing it is simple to bill you
+estimates and invoices. With Invoicing it is simple to bill your
 customers quickly and get paid fast.
 
 Within each invoice, you can view *contact details*, *outstanding
@@ -64,7 +64,7 @@ notes for the customer.
 
 It is also possible to send *estimates* to customers. Each estimate
 provides you with *details*, including contact information and the
-estimate deadline date. It can be easily turned into an invoice once it
+estimate deadline date. It can easily be turned into an invoice once it
 is accepted by a customer.
 
 The Invoicing dashboard demonstrates an overview of sent, paid, and
@@ -94,13 +94,13 @@ automatically updated.
 You can easily manage and color coordinate staff appointments and access
 the *day view, week view*, and if needed, a *monthly view* of bookings.
 Within each booking it is possible to see project information and
-appointment times to stay on schedule.
+appointment times, to help you stay on schedule.
 
 ![](https://o365hq.com/images/513.png)
 
 If you publish your Bookings page to your social media accounts,
 customers will have a chance to conveniently schedule appointments. It
-is very simple to change details of your bookings pages, such as the
+is very simple to change details of your Bookings pages, such as the
 color scheme, and these changes will automatically be updated to your
 linked social media accounts.
 
@@ -118,8 +118,8 @@ members that work on their project.
 
 Bookings is a fast and great way to schedule a meeting. Customers can
 easily find available time slots and book appointments 24/7 with the
-help of easy-to-use customizable webpage. It is very simple for
-customers to check your Bookings, set up a meeting and receive a
+help of the easy-to-use, customizable webpage. It is very simple for
+customers to check your Bookings, set up a meeting, and receive a
 calendar invitation. They also have an option to reschedule the meeting.
-In the future customers will have the ability to pre-pay for their
-appointments during the Booking's scheduling process.
+In the future, customers will have the ability to pre-pay for their
+appointments during the Bookings scheduling process.
