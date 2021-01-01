@@ -1,6 +1,6 @@
 +++
-title = "Windows 7 Extended Security Updates 2020: An Ultimate Step-by-Step Guide on Purchasing and Activation"
-description = "As you may have heard Windows 7 in the end of its Life Cycle. This makes users more susceptible to malware attacks and turns Window 7 to a minefield of security threats. The Extended Security Update program is an alternative for consumers to manage certain legacy Microsoft products after the support is ended. And this is an ultimate step-by-step guide on how to purchase and activate a Windows 7 Extended Security Updates for your computers."
+title = "Windows 7 Extended Security Updates 2020: An ultimate, step-by-step guide on purchasing and activation"
+description = "As you may have heard, Windows 7 is at the end of its life cycle. This makes users more susceptible to malware attacks and turns Window 7 into a minefield of security threats. The Extended Security Update program is an alternative for consumers to manage certain legacy Microsoft products after the support is ended. And this is an ultimate step-by-step guide on how to purchase and activate  Windows 7 Extended Security Updates for your computers."
 date = 2020-01-10
 
 [taxonomies]
@@ -13,12 +13,12 @@ We will help you get those elusive and hard-to-find Windows 7 Extended
 Security Updates for your computers.
 
 Please follow the steps listed below to make sure you purchase the right
-product for a proper device.
+product for your device(s).
 
 ***NOTE***:
 
-The original price for Win 7 ESU was \$50. But on Dec 10, 2019
-it was increased to \$62. We've got this communication from Microsoft:
+The original price for Win 7 ESU was \$50. But on Dec 10, 2019,
+it was increased to \$62. We got this communication from Microsoft:
 
 > UPDATE: Windows 7 ESU in CSP -- Pricing On
 > December 2, Windows 7 Extended Security Updates (ESU) were
@@ -50,42 +50,42 @@ it was increased to \$62. We've got this communication from Microsoft:
     ![](https://www.dummies.com/wp-content/uploads/283120.image2.jpg)
 3.  In the left pane, click Check for Updates.\
     ![](https://www.dummies.com/wp-content/uploads/283122.image4.jpg)
-4.  Allow for updates to download and install and then check for new
+4.  Allow for updates to download and install, and then check for new
     updates again to make sure there are no new updates.
 
 ### Make sure all your Windows 7 computers that need to be ESU-enabled are connected to the Internet.
 
 ESU MAK Phone activation was recently added as an
-option for non Internet connected devices. This article doesn't describe
+option for non-Internet-connected devices. This article doesn't describe
 that activation process.
 
-### Check the instructions below and think if you would be able to install and activate the Win7ESU keys yourself?
+### Check the instructions below and decide if you will be able to install and activate the Win7ESU keys yourself.
 
--   If yes -- please skip this step
+-   If yes -- please skip this step.
 -   If no -- reserve about \$49 per PC for [Windows 7 ESU
     Remote Installation
     Service](https://buymssoft.com/directlink?q=_ITPWW240CONOT.1).
     Internet connectivity is required.
 
-### Purchase a required number of licenses using [this link](https://buymssoft.com/license/CSP-DG7GMGF0FL73-0002).
+### Purchase the required number of licenses using [this link](https://buymssoft.com/license/CSP-DG7GMGF0FL73-0002).
 
-Office 365 / Azure AD tenant name will be required to place an order for
+An Office 365 / Azure AD tenant name will be required to place an order for
 ESU licenses. It's ok if you don't have one. We will register a
-tenant for you. It's free and with no strings attached. If you have a
-tenant and want to use it -- make sure you complete a questionnaire
+tenant for you. It's free, and there are no strings attached. If you have a
+tenant and want to use it -- make sure you complete the questionnaire
 after you place your order.
 
 Usually, it takes about a day to process an ESU order. When an
-order is processed you will receive an email with MAK (Multiple
+order is processed, you will receive an email with a MAK (Multiple
 Activation Key).
 
 ### Check your mailbox and Junk Mail folder for an email from us with the activation key.
 
 Depending on what office process the order, the email with the key may
 come from one of the following domain names:
-`o365hq.com OR `itpartner365.com.
+o365hq.com OR itpartner365.com.
 
-When you have the key you are ready for the next step.
+When you have the key, you are ready for the next step.
 
 ### Install and activate ESU on your Windows 7 computers
 
@@ -103,14 +103,14 @@ When you have the key you are ready for the next step.
         and press Enter. Make sure you have spaces between slmgr and
         /ipk and your MAK key. Your slmg command should look
         like this: **slmgr /ipk A7B6D-N3D1F-J34ND-LP3NA-32BNA**
-    3.  If the product key installed successfully, after a short delay
+    3.  If the product key installed successfully, after a short delay,
         you will see a message similar to the following:\
         ![](https://gxcuf89792.i.lithium.com/t5/image/serverpage/image-id/138244i39443211C3ACAFCD/image-dimensions/535x168?v=1.0)
 2.  Next, find the ESU Activation ID
     (77db037b-95c3-48d7-a3ab-a9c6d41093e0):
     1.  In the elevated Command Prompt, type **slmgr /dlv** and select
         Enter.
-    2.  Note the Activation ID as you will need it in the next step.\
+    2.  Note the Activation ID, as you will need it in the next step.\
         ![](https://gxcuf89792.i.lithium.com/t5/image/serverpage/image-id/138248i997F51A8C3D1BDC0/image-dimensions/574x260?v=1.0)
     3.  It should be 77db037b-95c3-48d7-a3ab-a9c6d41093e0. It's the
         Activation ID for the year 2020.
@@ -134,9 +134,9 @@ When you have the key you are ready for the next step.
         management solution you prefer. You will receive updates until
         the end of 2020.
 
-### Check the [Microsoft Windows 7 ESU [FAQ]{.caps} page](https://support.microsoft.com/en-us/help/4527878/faq-about-extended-security-updates-for-windows-7) for additional information.
+### Check the [Microsoft Windows 7 ESU [FAQ]{.caps} page] (https://support.microsoft.com/en-us/help/4527878/faq-about-extended-security-updates-for-windows-7) for additional information.
 
-### Troubleshooting the Windows 7 ESU Installation and Activation Errors
+### Troubleshooting Windows 7 ESU installation and activation errors
 
 **Error:** 0xC004F050 The Software Licensing Service reported that the
 product key is invalid.
