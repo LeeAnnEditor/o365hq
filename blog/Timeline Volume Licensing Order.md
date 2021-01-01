@@ -35,7 +35,7 @@ tags = ["vlsc", "volume licensing"]
 -   ::: {.content}
     ### 4
 
-    IT Partner converts a Quote in to the Invoice *from a few minutes to
+    IT Partner converts a Quote into an Invoice *from a few minutes to
     a few hours*
     :::
 
@@ -74,9 +74,9 @@ tags = ["vlsc", "volume licensing"]
 
     Client accesses the VLSC and creates a profile and accesses the
     installation files and activation keys. If Client used a different
-    email address to register with VLSC then it make take up to 48 hours
+    email address to register with VLSC, then it might take up to 48 hours
     to add the purchased license to the Client's profile using the
-    License number and Authorization number which was sent via email
+    License number and Authorization number that was sent via email
     from Microsoft.
     :::
 :::
