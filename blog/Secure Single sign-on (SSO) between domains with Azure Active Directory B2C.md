@@ -1,6 +1,6 @@
 +++
-title = "Secure Single sign-on (SSO) Between Domains with Azure Active Directory B2C"
-description = "Users expect to instantly log into apps and navigate between domains without having to retype credentials but implementing SSO from scratch is not unlike reinventing the wheel. We must think about security, performance, managing user sessions, and a host of other things."
+title = "Secure Single sign-on (SSO) between domains with Azure Active Directory B2C"
+description = "Users expect to instantly log into apps and navigate between domains without having to retype credentials, but implementing SSO from scratch is not unlike reinventing the wheel. We must think about security, performance, managing user sessions, and a host of other things."
 date = 2018-07-24
 
 [taxonomies]
@@ -57,10 +57,10 @@ Revenue in More Personal Computing was \$10.8 billion and increased 17%
     in-quarter revenue recognition
 -   Gaming revenue increased 39% (up 38% in constant currency) with Xbox
     software and services revenue growth of 36% (up 35% in constant
-    currency) mainly from third party title strength
+    currency) mainly from third-party title strength
 -   Surface revenue increased 25% (up 21% in constant currency) driven
     by strong performance of the latest editions of Surface against a
     low prior year comparable
--   Search advertising revenue excluding traffic acquisition costs
+-   Search advertising revenue, excluding traffic acquisition costs,
     increased 17% (up 16% in constant currency) driven by higher revenue
     per search and search volume
