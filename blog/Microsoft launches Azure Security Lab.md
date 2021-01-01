@@ -1,6 +1,6 @@
 +++
 title = "Microsoft launches Azure Security Lab"
-description = "At Black Hat 2019 (world&#8217;s leading information security event) yesterday, Microsoft announced the Azure Security Lab, a sandbox-like environment for security researchers to test its cloud security. "
+description = "At Black Hat 2019 (world's leading information security event) yesterday, Microsoft announced the Azure Security Lab, a sandbox-like environment for security researchers to test its cloud security. "
 date = 2019-08-07
 
 [taxonomies]
@@ -34,4 +34,4 @@ work to help customers secure their Azure cloud environment with
 products such as Azure Sentinel and Azure Security Center. And if a
 situation arises, Microsoft's Cloud Defense Operations Center
 (CDOC) and security teams work around the clock to identify,
-analyze and respond to threats in real-time.
+analyze, and respond to threats in real time.
