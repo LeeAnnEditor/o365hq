@@ -1,6 +1,6 @@
 +++
 title = "We’re excited to announce that Microsoft has acquired FSLogix"
-description = "A leading innovator of solutions that reduce the amount of hardware, time, and labor required to support desktop virtualization platforms."
+description = "FSLogix is a leading innovator of solutions that reduces the amount of hardware, time, and labor required to support desktop virtualization platforms."
 date = 2018-11-21
 
 [taxonomies]
@@ -10,10 +10,10 @@ tags = ["microsoft 365"]
 +++
 
 To help extend virtualization capabilities and provide an even richer
-experience for Microsoft 365 customers, Microsoft are excited to
+experience for Microsoft 365 customers, Microsoft is excited to
 announce the acquisition of FSLogix.
 
-In September 2018 Microsoft
+In September 2018, Microsoft
 [announced](https://www.microsoft.com/microsoft-365/partners/news/article/announcing-windows-virtual-desktop)
 Windows Virtual Desktop -- a Microsoft 365 service that empowers
 customers to run a modern desktop experience on Azure. Office 365
