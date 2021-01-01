@@ -1,6 +1,6 @@
 +++
 title = "Microsoft Threat Protection"
-description = "Microsoft Threat Protection offers brand-new threat information in real-time, viewed in an updated UI. It is very crucial for Security Team to access threat information immediately as well as identify and resolve the latest impact of those threats to the enterprise. "
+description = "Microsoft Threat Protection offers brand-new threat information in real time, viewed in an updated UI. It is very crucial for the Security Team to access threat information immediately, as well as identify and resolve the latest impact of those threats to the enterprise. "
 date = 2020-01-21
 
 [taxonomies]
@@ -9,7 +9,7 @@ types = ["Security and Protection"]
 tags = ["advanced threat protection", "cloud security", "modern security"]
 +++
 
-### User Reported Phish
+### User-reported phish
 
 The Automated Incident Response (AIR) functionality helps
 enhance the admin experience. Threat information updates right away,
@@ -19,15 +19,15 @@ providing the latest threat details across your environment.
 
 There can be thousands or tens of thousands of phish emails in your
 environment each day. It is a daunting and time-consuming task if a
-SecOps teams tries to deal with each one of those emails as single
+SecOps team tries to deal with each one of those emails as single
 alerts. AIR takes the bulk of these alerts and investigates and
-provides actionable recommendations, making the SecOps day to day life
+provides actionable recommendations, making the SecOp's day-to-day life
 easier. Microsoft Threat Protection AIR is also designed for
 security readers to have access to the automated investigations as well.
 
 SecOps engineers can use the Office 365 Security & Compliance portal,
 and then navigate to the Alerts dashboard. Microsoft has made it simple
-to navigate here to the alert page and examine the alerts directly. The
+to navigate to the alert page and examine the alerts directly. The
 Report Message add-in for Outlook and Outlook on the web enables people
 to easily report suspicious email, whether safe or malicious, to
 Microsoft for analysis. This information surfaces in the Security
@@ -38,9 +38,9 @@ review and update security policies.
 
 The system can investigate several different items based on one email.
 It is possible to re-sort by entity type so you can see the different
-pieces that it's been looking at from the email. Microsoft Threat
+pieces that it's been looking at from the email. The Microsoft Threat
 Protection engine analyzes a massive number of emails and groups them
-based on similarities. They may contain the same content, subject or
+based on similarities. They may contain the same content, subject, or
 come from the same IP address. AIR analyzes the URLs,
 the IPs, as well as the sending domain. With this built-in intelligence,
 even if the attacker happens to have changed the sender address, changed
@@ -50,7 +50,7 @@ environment.
 
 ![](https://o365hq.com/images/661.png)
 
-AIR also analyzes the Users. If the system identifies a
+AIR also analyzes the users. If the system identifies a
 malicious URL click associated with the user, you can click
 into the evidence tab to find out more about this user. This will give
 you context about who they are and what's been going on with them
@@ -62,17 +62,17 @@ key differentiator for Microsoft Threat Protection.
 
 ![](https://o365hq.com/images/660.png)
 
-### Clicked URL Verdict Changed to Malicious
+### Clicked URL verdict changed to malicious
 
-URL Verdict changes are a simple and easy way for malicious
+URL verdict changes are a simple and easy way for malicious
 content to make its way into a company. A simple innocuous link can be
 changed post-delivery to a site or file that the end user was not
 expecting.
 
 SecOps get "A potentially malicious URL click was detected"
 alerts from a different system. But for ease, Microsoft has made it
-simple to navigate here to the alert page and explore the alerts
-directly. The Investigation graph breaks down the incident and includes
+simple to navigate to the alert page and explore the alerts
+directly. The investigation graph breaks down the incident and includes
 all the actions and objects associated with the particular incident.
 After the investigation starts, it's going to analyze that particular
 email where the malicious URL was identified, then start to
@@ -83,14 +83,14 @@ ATP integration.
 
 ![](https://o365hq.com/images/663.png)
 
-SecOps can easily follow up on directly with the user who has performed
+SecOps can easily follow up directly with the user who has performed
 some risky user behavior and investigate further, because perhaps this
 action was not the real user at all. This integration of Office 365
 ATP with MCAS helps provide customers an extensive
 visibility into the threat landscape. This comprehensive, integrated
 protection is a differentiator for MTP.
 
-Logs tab provides you with a breakdown of the incident as a detailed
+The Logs tab provides you with a breakdown of the incident as a detailed
 timeline of events: from the initial click, identification of the
 URL verdict change, user investigation, all the way to the
 recommended actions. Here you can truly follow the process that
@@ -106,24 +106,24 @@ organizations from harmful activities, as well as identify potential
 threats and proactively respond to them to discourage risky user
 behavior.
 
-### Zero Hour Auto-Purge Investigation
+### Zero-hour auto purge investigation
 
 Zero-hour auto purge helps to remove the infected messages from your
 Office 365 mailboxes.
 
 ![](https://o365hq.com/images/667.png)
 
-In the email tab, all the emails are clustered by the type as well as
-similar files such as attachments including relevant threats (malware,
+In the email tab, all the emails are clustered by the type, as well as
+similar files, such as attachments including relevant threats (malware,
 phish). If you want more details, click back on the email cluster
-details tab. From the explorer page, you can view similar items in email
+details tab. From the explorer page, you can view similar items in email,
 including Sender(s), Subject(s), as well as the Body of the messages,
 all matching the fingerprint of the original alert.
 
 ![](https://o365hq.com/images/665.png)
 
 You can also identify if there were any malicious URLs within
-the Zapped mail and if anyone clicked on them and see the origin of the
+the zapped mail and if anyone clicked on them and see the origin of the
 email in a map view.
 
 Clicking on the user's tab, you will find the originally targeted user,
@@ -140,9 +140,9 @@ secure your company and help you identify the threat on your machine.
 
 You can always head back to the incident alert to see what Microsoft
 Defender ATP AIR has discovered about the incident.
-MTP AIR is Deep linked into Microsoft Defender
+MTP AIR is deep-linked into Microsoft Defender
 ATP investigations on machines that are Azure AD or Hybrid
-Azure AD Joined and enrolled in Microsoft Defender ATP
+Azure AD joined and enrolled in Microsoft Defender ATP
 services. This takes advantage of the policies based on Office
 ATP alerts and investigations. This "signal/information
 sharing" between Office ATP and Microsoft Defender ATP
@@ -151,13 +151,13 @@ zero-hour malware is detected and zapped.
 
 ![](https://o365hq.com/images/668.png)
 
-Clicking the entities tab in the investigation page helps you find all
+Clicking the entities tab on the investigation page helps you find all
 the objects that were involved in the incident. You can see the
 machines, users, emails, files, and email clusters all centrally located
 in this section. The Action tab provides a list of recommended actions
 for SecOps to contain and mitigate threats in the analysis.
 
 Microsoft Threat Protection gives SecOps teams an opportunity to explore
-incidents faster, easier and protect your endpoints more securely.
+incidents faster, easier, and protect your endpoints more securely.
 
 ![](https://o365hq.com/images/669.png)
