@@ -1,6 +1,6 @@
 +++
 title = "Microsoft Search"
-description = "Our world is changing faster than before.  The amount of data we analyze and process is increasing each day.  A lot of operations and systems people must manage while on the go. Microsoft Search increases your capacity and helps you find data you need, whether at work, at home, or on the go. Microsoft Search makes it simple to search enterprise content across Microsoft 365 via a consistent user experience, it delivers relevant, personalized results-secure for the enterprise. "
+description = "Our world is changing faster than ever. The amount of data we analyze and process is increasing each day. A lot of operations and systems people must manage while on the go. Microsoft Search increases your capacity and helps you find data you need, whether at work, at home, or on the go. Microsoft Search makes it simple to search enterprise content across Microsoft 365 via a consistent user experience; it delivers relevant, personalized results -- secure for the enterprise. "
 date = 2020-01-24
 
 [taxonomies]
@@ -11,26 +11,26 @@ tags = ["microsoft 365", "microsoft search"]
 
 ![](https://o365hq.com/images/670.png)
 
-Microsoft Search was introduced to address common search related issues:
+Microsoft Search was introduced to address common search related issues.
 
 1.  An explosion of internet and intranet content -- more content is now
-    available across the enterprise and online
-2.  The enterprise search experience hasn't changed in past 10 years --
-    i.e. still serving lots of blue links, but lacking tools to
+    available across the enterprise and online.
+2.  The enterprise search experience hasn't changed in the past 10 years --
+    it's still serving lots of blue links, but lacking tools to
     differentiate between them.
 3.  In general, search wasn't really helping users accomplish tasks --
     just navigate through the surfaced links.
 
 Microsoft Search breaks the enterprise search mold by offering users:
 
--   Better, more contextual results
--   A richer, more consistent, and organized user experience
--   Quick access to information needed to accomplish key tasks
+-   better, more contextual results
+-   a richer, more consistent and organized user experience
+-   quick access to information needed to accomplish key tasks
 
 All Microsoft products are making a bold bet on the importance of search
 by putting the Microsoft Search box in the header across the Microsoft
 365 suite of applications. Microsoft Search is proactive, contextual,
-and coherent. Microsoft Search leverages advanced computing technologies
+and coherent. Microsoft Search leverages advanced computing technologies,
 like deep learning for better semantic understanding of search queries.
 Semantic understanding allows people to search for information using the
 natural language and phrases we speak every day, whether typed into a
@@ -38,27 +38,27 @@ search field in an application or spoken to a virtual assistant.
 
 ![](https://o365hq.com/images/677.png)
 
-Microsoft has improved search to achieve better results across work and
+Microsoft has improved Search to achieve better results across work and
 life. Great results start with a great place to start your search, and
-*Bing* delivers a stunning high definition image daily. The Bing home
+*Bing* delivers a stunning, high-definition image daily. The Bing home
 page is also a high-performance page optimized for use as a blank start
 page.
 
 Microsoft has embedded a Bing homepage quiz hotspot into the image to
 help consumers learn about the image context in detail -- there is a
-hidden multiple choice question based upon the image of the day in the
-bottom right.
+hidden multiple-choice question based upon the image of the day on the
+bottom right of the screen.
 
 Answering the question opens a relevant search results page where you
-can find if your answer was correct and explore related content for a
+can find out if your answer was correct and explore related content for a
 deeper understanding. Bing also provides quick access to recent homepage
 images, and interesting facts related to this day in history.
 
 ![](https://o365hq.com/images/678.png)
 
 Microsoft Search is a new search experience that retrieves information
-from a school, or organization like files and company data and displays
-them in a single unified experience.
+from a school or organization, like files and company data, and displays
+them in a single, unified experience.
 
 Microsoft Search understands your intent and the kind of information you
 are likely looking for by integration with the *Microsoft Graph*. It
@@ -77,8 +77,8 @@ company.
 
 It is simple to reach out to your colleagues by clicking on their
 contact card to quickly send an email, chat, or call with Outlook,
-Teams, or Skype for business, and find the location of their office for
-a vis-à-vis conversation.
+Teams, or Skype for Business, and find the location of their office for
+a face-to-face conversation.
 
 ![](https://o365hq.com/images/675.png)
 
@@ -87,13 +87,13 @@ on the Microsoft Graph and its understanding of how people work, who
 they work with, and activity in content shared with them across
 Microsoft 365. With intelligent file recommendations, users get
 suggestions they are more likely to click on than those surfaced by
-rule-based algorithms like most recently used files.
+rule-based algorithms like the most recently used files.
 
 However, Microsoft Search is more than just files. Enhanced people
 search lets you identify the right people in your company by using
-attributes, such as designer to provide answers or help quickly. The
-deep contextual information returned by Microsoft Search helps you boost
-your productivity and reduce the friction of switching between apps and
+attributes, such as designer, to provide answers or help quickly. The
+deep, contextual information returned by Microsoft Search helps you boost
+your productivity and reduces the friction of switching between apps and
 browser tabs.
 
 ![](https://o365hq.com/images/674.png)
@@ -114,7 +114,7 @@ delivers the same great results.
 Microsoft Search presents a consistently integrated experience across
 the entire portfolio of Microsoft's applications and empowers people by
 intelligently finding relevant content quickly, both on the web and
-across an organization. Search wherever you are, you'll get the same
+across an organization. Search wherever you are -- you'll get the same
 great results and experience, secured for the enterprise.
 
 ![](https://o365hq.com/images/671.png)
