@@ -1,6 +1,6 @@
 +++
 title = "Security-related links and resources"
-description = "Below, you may see list of security-related links"
+description = "Below you will see a list of security-related links."
 date = 2018-11-30
 
 [taxonomies]
@@ -95,7 +95,7 @@ Azure AD Connect ---
 
 ### eDiscovery
 
-Assign eDiscovery permissions:
+Assign eDiscovery permissions ---
 <https://support.office.com/en-us/article/Assign-eDiscovery-permissions-in-the-Office-365-Security-Compliance-Center-5b9a067b-9d2e-4aa5-bb33-99d8c0d0b5d7>\
 Overview of retention policies ---
 <https://support.office.com/en-us/article/Overview-of-retention-policies-5e377752-700d-4870-9b6d-12bfc12d2423>
